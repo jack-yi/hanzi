@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fdfbf7;
+  --foreground: #1c1917;
+  --card: #ffffff;
+  --border: #e7e0d8;
+  --muted: #78716c;
+  --accent: #c53030;
+  --accent-soft: #fdf0ec;
+  --gold: #b7791f;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-gold: var(--gold);
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #16130f;
+    --foreground: #ece7e0;
+    --card: #201c17;
+    --border: #383028;
+    --muted: #a39a90;
+    --accent: #e05252;
+    --accent-soft: #34211d;
+    --gold: #d9a441;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+.hanzi {
+  font-family: "Kaiti SC", "KaiTi", "STKaiti", "AR PL UKai CN", "PingFang SC", "Hiragino Sans GB", serif;
+}
+
+/* subtle rice-grid background for the big character display */
+.rice-grid {
+  background-image:
+    linear-gradient(to right, var(--border) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--border) 1px, transparent 1px),
+    linear-gradient(45deg, transparent calc(50% - 0.5px), var(--border) calc(50% - 0.5px), var(--border) calc(50% + 0.5px), transparent calc(50% + 0.5px)),
+    linear-gradient(-45deg, transparent calc(50% - 0.5px), var(--border) calc(50% - 0.5px), var(--border) calc(50% + 0.5px), transparent calc(50% + 0.5px));
+  background-size: 100% 100%;
+}

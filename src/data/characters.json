@@ -1,0 +1,6980 @@
+[
+ {
+  "character": "一",
+  "traditional": null,
+  "pinyin": [
+   "yī"
+  ],
+  "audioKey": "yi1",
+  "meanings": [
+   "one"
+  ],
+  "hskLevel": 1,
+  "radical": "一",
+  "strokeCount": 1,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "一",
+    "pinyin": "yī",
+    "meaning": "one"
+   },
+   {
+    "word": "一百",
+    "pinyin": "yìbǎi",
+    "meaning": "one hundred"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她有一个女儿。",
+    "pinyin": "Tā yǒu yí ge nǚ'ér.",
+    "en": "She has a daughter."
+   },
+   {
+    "zh": "他有一个儿子。",
+    "pinyin": "Tā yǒu yí ge érzi.",
+    "en": "He has a son."
+   },
+   {
+    "zh": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "en": "I have a book."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "二",
+  "traditional": null,
+  "pinyin": [
+   "èr"
+  ],
+  "audioKey": "er4",
+  "meanings": [
+   "two"
+  ],
+  "hskLevel": 1,
+  "radical": "二",
+  "strokeCount": 2,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "二",
+    "pinyin": "èr",
+    "meaning": "two"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我今年二十岁。",
+    "pinyin": "Wǒ jīnnián èrshí suì.",
+    "en": "I am twenty years old."
+   },
+   {
+    "zh": "一年有十二个月。",
+    "pinyin": "Yì nián yǒu shí'èr ge yuè.",
+    "en": "A year has twelve months."
+   }
+  ],
+  "similar": [
+   "三"
+  ]
+ },
+ {
+  "character": "三",
+  "traditional": null,
+  "pinyin": [
+   "sān"
+  ],
+  "audioKey": "san1",
+  "meanings": [
+   "three"
+  ],
+  "hskLevel": 1,
+  "radical": "一",
+  "strokeCount": 3,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "三",
+    "pinyin": "sān",
+    "meaning": "three"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这是三块钱。",
+    "pinyin": "Zhè shì sān kuài qián.",
+    "en": "This is three yuan."
+   },
+   {
+    "zh": "今天是三月九号。",
+    "pinyin": "Jīntiān shì sān yuè jiǔ hào.",
+    "en": "Today is March 9th."
+   }
+  ],
+  "similar": [
+   "二"
+  ]
+ },
+ {
+  "character": "四",
+  "traditional": null,
+  "pinyin": [
+   "sì"
+  ],
+  "audioKey": "si4",
+  "meanings": [
+   "four"
+  ],
+  "hskLevel": 1,
+  "radical": "囗",
+  "strokeCount": 5,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "四",
+    "pinyin": "sì",
+    "meaning": "four"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我家有四口人。",
+    "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+    "en": "There are four people in my family."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "五",
+  "traditional": null,
+  "pinyin": [
+   "wǔ"
+  ],
+  "audioKey": "wu3",
+  "meanings": [
+   "five"
+  ],
+  "hskLevel": 1,
+  "radical": "二",
+  "strokeCount": 4,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "五",
+    "pinyin": "wǔ",
+    "meaning": "five"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我买了五个苹果。",
+    "pinyin": "Wǒ mǎi le wǔ ge píngguǒ.",
+    "en": "I bought five apples."
+   },
+   {
+    "zh": "五分钟后见。",
+    "pinyin": "Wǔ fēnzhōng hòu jiàn.",
+    "en": "See you in five minutes."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "六",
+  "traditional": null,
+  "pinyin": [
+   "liù"
+  ],
+  "audioKey": "liu4",
+  "meanings": [
+   "six"
+  ],
+  "hskLevel": 1,
+  "radical": "八",
+  "strokeCount": 4,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "六",
+    "pinyin": "liù",
+    "meaning": "six"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "六月一号是星期一。",
+    "pinyin": "Liù yuè yī hào shì xīngqīyī.",
+    "en": "June 1st is a Monday."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "七",
+  "traditional": null,
+  "pinyin": [
+   "qī"
+  ],
+  "audioKey": "qi1",
+  "meanings": [
+   "seven"
+  ],
+  "hskLevel": 1,
+  "radical": "一",
+  "strokeCount": 2,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "七",
+    "pinyin": "qī",
+    "meaning": "seven"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "一个星期有七天。",
+    "pinyin": "Yí ge xīngqī yǒu qī tiān.",
+    "en": "A week has seven days."
+   }
+  ],
+  "similar": [
+   "十"
+  ]
+ },
+ {
+  "character": "八",
+  "traditional": null,
+  "pinyin": [
+   "bā"
+  ],
+  "audioKey": "ba1",
+  "meanings": [
+   "eight"
+  ],
+  "hskLevel": 1,
+  "radical": "八",
+  "strokeCount": 2,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "八",
+    "pinyin": "bā",
+    "meaning": "eight"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "现在八点。",
+    "pinyin": "Xiànzài bā diǎn.",
+    "en": "It is eight o'clock."
+   }
+  ],
+  "similar": [
+   "人"
+  ]
+ },
+ {
+  "character": "九",
+  "traditional": null,
+  "pinyin": [
+   "jiǔ"
+  ],
+  "audioKey": "jiu3",
+  "meanings": [
+   "nine"
+  ],
+  "hskLevel": 1,
+  "radical": "乙",
+  "strokeCount": 2,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "九",
+    "pinyin": "jiǔ",
+    "meaning": "nine"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我们上午九点开会。",
+    "pinyin": "Wǒmen shàngwǔ jiǔ diǎn kāihuì.",
+    "en": "We have a meeting at nine in the morning."
+   },
+   {
+    "zh": "今天是三月九号。",
+    "pinyin": "Jīntiān shì sān yuè jiǔ hào.",
+    "en": "Today is March 9th."
+   }
+  ],
+  "similar": [
+   "几"
+  ]
+ },
+ {
+  "character": "十",
+  "traditional": null,
+  "pinyin": [
+   "shí"
+  ],
+  "audioKey": "shi2",
+  "meanings": [
+   "ten"
+  ],
+  "hskLevel": 1,
+  "radical": "十",
+  "strokeCount": 2,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "十",
+    "pinyin": "shí",
+    "meaning": "ten"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我今年二十岁。",
+    "pinyin": "Wǒ jīnnián èrshí suì.",
+    "en": "I am twenty years old."
+   },
+   {
+    "zh": "一年有十二个月。",
+    "pinyin": "Yì nián yǒu shí'èr ge yuè.",
+    "en": "A year has twelve months."
+   },
+   {
+    "zh": "现在是零下十度。",
+    "pinyin": "Xiànzài shì líng xià shí dù.",
+    "en": "It is minus ten degrees now."
+   }
+  ],
+  "similar": [
+   "七"
+  ]
+ },
+ {
+  "character": "零",
+  "traditional": null,
+  "pinyin": [
+   "líng"
+  ],
+  "audioKey": "ling2",
+  "meanings": [
+   "zero"
+  ],
+  "hskLevel": 1,
+  "radical": "雨",
+  "strokeCount": 13,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "零",
+    "pinyin": "líng",
+    "meaning": "zero"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "现在是零下十度。",
+    "pinyin": "Xiànzài shì líng xià shí dù.",
+    "en": "It is minus ten degrees now."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "百",
+  "traditional": null,
+  "pinyin": [
+   "bǎi"
+  ],
+  "audioKey": "bai3",
+  "meanings": [
+   "hundred"
+  ],
+  "hskLevel": 1,
+  "radical": "白",
+  "strokeCount": 6,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "一百",
+    "pinyin": "yìbǎi",
+    "meaning": "one hundred"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "一百块钱。",
+    "pinyin": "Yìbǎi kuài qián.",
+    "en": "One hundred yuan."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "块",
+  "traditional": "塊",
+  "pinyin": [
+   "kuài"
+  ],
+  "audioKey": "kuai4",
+  "meanings": [
+   "yuan (money)",
+   "piece; lump"
+  ],
+  "hskLevel": 1,
+  "radical": "土",
+  "strokeCount": 7,
+  "topics": [
+   "numbers",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "块",
+    "pinyin": "kuài",
+    "meaning": "yuan (measure word for money)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这是三块钱。",
+    "pinyin": "Zhè shì sān kuài qián.",
+    "en": "This is three yuan."
+   },
+   {
+    "zh": "一百块钱。",
+    "pinyin": "Yìbǎi kuài qián.",
+    "en": "One hundred yuan."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "钱",
+  "traditional": "錢",
+  "pinyin": [
+   "qián"
+  ],
+  "audioKey": "qian2",
+  "meanings": [
+   "money"
+  ],
+  "hskLevel": 1,
+  "radical": "钅",
+  "strokeCount": 10,
+  "topics": [
+   "numbers",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "钱",
+    "pinyin": "qián",
+    "meaning": "money"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much is this?"
+   },
+   {
+    "zh": "这是三块钱。",
+    "pinyin": "Zhè shì sān kuài qián.",
+    "en": "This is three yuan."
+   },
+   {
+    "zh": "一百块钱。",
+    "pinyin": "Yìbǎi kuài qián.",
+    "en": "One hundred yuan."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "号",
+  "traditional": "號",
+  "pinyin": [
+   "hào"
+  ],
+  "audioKey": "hao4",
+  "meanings": [
+   "date; day of the month",
+   "number"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 5,
+  "topics": [
+   "numbers",
+   "time"
+  ],
+  "words": [
+   {
+    "word": "号",
+    "pinyin": "hào",
+    "meaning": "date; number"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天是三月九号。",
+    "pinyin": "Jīntiān shì sān yuè jiǔ hào.",
+    "en": "Today is March 9th."
+   },
+   {
+    "zh": "六月一号是星期一。",
+    "pinyin": "Liù yuè yī hào shì xīngqīyī.",
+    "en": "June 1st is a Monday."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "几",
+  "traditional": "幾",
+  "pinyin": [
+   "jǐ"
+  ],
+  "audioKey": "ji3",
+  "meanings": [
+   "how many",
+   "several"
+  ],
+  "hskLevel": 1,
+  "radical": "几",
+  "strokeCount": 2,
+  "topics": [
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "几",
+    "pinyin": "jǐ",
+    "meaning": "how many; several"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "en": "What time is it now?"
+   },
+   {
+    "zh": "你几岁？",
+    "pinyin": "Nǐ jǐ suì?",
+    "en": "How old are you?"
+   }
+  ],
+  "similar": [
+   "九",
+   "儿"
+  ]
+ },
+ {
+  "character": "多",
+  "traditional": null,
+  "pinyin": [
+   "duō"
+  ],
+  "audioKey": "duo1",
+  "meanings": [
+   "many; much",
+   "how (to what extent)"
+  ],
+  "hskLevel": 1,
+  "radical": "夕",
+  "strokeCount": 6,
+  "topics": [
+   "numbers",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "多",
+    "pinyin": "duō",
+    "meaning": "many; much"
+   },
+   {
+    "word": "多少",
+    "pinyin": "duōshao",
+    "meaning": "how many; how much"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much is this?"
+   },
+   {
+    "zh": "你的电话是多少？",
+    "pinyin": "Nǐ de diànhuà shì duōshao?",
+    "en": "What is your phone number?"
+   },
+   {
+    "zh": "我有很多书。",
+    "pinyin": "Wǒ yǒu hěn duō shū.",
+    "en": "I have many books."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "少",
+  "traditional": null,
+  "pinyin": [
+   "shǎo",
+   "shào"
+  ],
+  "audioKey": "shao3",
+  "meanings": [
+   "few; little"
+  ],
+  "hskLevel": 1,
+  "radical": "小",
+  "strokeCount": 4,
+  "topics": [
+   "numbers",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "多少",
+    "pinyin": "duōshao",
+    "meaning": "how many; how much"
+   },
+   {
+    "word": "少",
+    "pinyin": "shǎo",
+    "meaning": "few; little"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much is this?"
+   },
+   {
+    "zh": "你的电话是多少？",
+    "pinyin": "Nǐ de diànhuà shì duōshao?",
+    "en": "What is your phone number?"
+   },
+   {
+    "zh": "人很少。",
+    "pinyin": "Rén hěn shǎo.",
+    "en": "There are very few people."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "天",
+  "traditional": null,
+  "pinyin": [
+   "tiān"
+  ],
+  "audioKey": "tian1",
+  "meanings": [
+   "day",
+   "sky"
+  ],
+  "hskLevel": 1,
+  "radical": "大",
+  "strokeCount": 4,
+  "topics": [
+   "time",
+   "weather"
+  ],
+  "words": [
+   {
+    "word": "今天",
+    "pinyin": "jīntiān",
+    "meaning": "today"
+   },
+   {
+    "word": "明天",
+    "pinyin": "míngtiān",
+    "meaning": "tomorrow"
+   },
+   {
+    "word": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "weather"
+   },
+   {
+    "word": "昨天",
+    "pinyin": "zuótiān",
+    "meaning": "yesterday"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is nice today."
+   },
+   {
+    "zh": "我们明天见。",
+    "pinyin": "Wǒmen míngtiān jiàn.",
+    "en": "See you tomorrow."
+   },
+   {
+    "zh": "今天是星期日。",
+    "pinyin": "Jīntiān shì xīngqīrì.",
+    "en": "Today is Sunday."
+   }
+  ],
+  "similar": [
+   "大",
+   "太"
+  ]
+ },
+ {
+  "character": "年",
+  "traditional": null,
+  "pinyin": [
+   "nián"
+  ],
+  "audioKey": "nian2",
+  "meanings": [
+   "year"
+  ],
+  "hskLevel": 1,
+  "radical": "干",
+  "strokeCount": 6,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "年",
+    "pinyin": "nián",
+    "meaning": "year"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我今年二十岁。",
+    "pinyin": "Wǒ jīnnián èrshí suì.",
+    "en": "I am twenty years old."
+   },
+   {
+    "zh": "一年有十二个月。",
+    "pinyin": "Yì nián yǒu shí'èr ge yuè.",
+    "en": "A year has twelve months."
+   }
+  ],
+  "similar": [
+   "午"
+  ]
+ },
+ {
+  "character": "月",
+  "traditional": null,
+  "pinyin": [
+   "yuè"
+  ],
+  "audioKey": "yue4",
+  "meanings": [
+   "month",
+   "moon"
+  ],
+  "hskLevel": 1,
+  "radical": "月",
+  "strokeCount": 4,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "月",
+    "pinyin": "yuè",
+    "meaning": "month"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "一年有十二个月。",
+    "pinyin": "Yì nián yǒu shí'èr ge yuè.",
+    "en": "A year has twelve months."
+   },
+   {
+    "zh": "今天是三月九号。",
+    "pinyin": "Jīntiān shì sān yuè jiǔ hào.",
+    "en": "Today is March 9th."
+   },
+   {
+    "zh": "六月一号是星期一。",
+    "pinyin": "Liù yuè yī hào shì xīngqīyī.",
+    "en": "June 1st is a Monday."
+   }
+  ],
+  "similar": [
+   "日"
+  ]
+ },
+ {
+  "character": "日",
+  "traditional": null,
+  "pinyin": [
+   "rì"
+  ],
+  "audioKey": "ri4",
+  "meanings": [
+   "day",
+   "sun"
+  ],
+  "hskLevel": 1,
+  "radical": "日",
+  "strokeCount": 4,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "日",
+    "pinyin": "rì",
+    "meaning": "day; date"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天是星期日。",
+    "pinyin": "Jīntiān shì xīngqīrì.",
+    "en": "Today is Sunday."
+   }
+  ],
+  "similar": [
+   "月"
+  ]
+ },
+ {
+  "character": "时",
+  "traditional": "時",
+  "pinyin": [
+   "shí"
+  ],
+  "audioKey": "shi2",
+  "meanings": [
+   "time",
+   "hour"
+  ],
+  "hskLevel": 1,
+  "radical": "日",
+  "strokeCount": 7,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "时候",
+    "pinyin": "shíhou",
+    "meaning": "time; moment"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你什么时候来？",
+    "pinyin": "Nǐ shénme shíhou lái?",
+    "en": "When are you coming?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "候",
+  "traditional": null,
+  "pinyin": [
+   "hòu"
+  ],
+  "audioKey": "hou4",
+  "meanings": [
+   "time; moment (in 时候)"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 10,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "时候",
+    "pinyin": "shíhou",
+    "meaning": "time; moment"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你什么时候来？",
+    "pinyin": "Nǐ shénme shíhou lái?",
+    "en": "When are you coming?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "分",
+  "traditional": null,
+  "pinyin": [
+   "fēn",
+   "fèn"
+  ],
+  "audioKey": "fen1",
+  "meanings": [
+   "minute",
+   "to divide"
+  ],
+  "hskLevel": 1,
+  "radical": "刀",
+  "strokeCount": 4,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "分钟",
+    "pinyin": "fēnzhōng",
+    "meaning": "minute"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "五分钟后见。",
+    "pinyin": "Wǔ fēnzhōng hòu jiàn.",
+    "en": "See you in five minutes."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "钟",
+  "traditional": "鍾",
+  "pinyin": [
+   "zhōng"
+  ],
+  "audioKey": "zhong1",
+  "meanings": [
+   "clock",
+   "o'clock (time)"
+  ],
+  "hskLevel": 1,
+  "radical": "钅",
+  "strokeCount": 9,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "分钟",
+    "pinyin": "fēnzhōng",
+    "meaning": "minute"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "五分钟后见。",
+    "pinyin": "Wǔ fēnzhōng hòu jiàn.",
+    "en": "See you in five minutes."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "点",
+  "traditional": "點",
+  "pinyin": [
+   "diǎn"
+  ],
+  "audioKey": "dian3",
+  "meanings": [
+   "o'clock",
+   "dot; a little"
+  ],
+  "hskLevel": 1,
+  "radical": "灬",
+  "strokeCount": 9,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "点",
+    "pinyin": "diǎn",
+    "meaning": "o'clock"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "en": "What time is it now?"
+   },
+   {
+    "zh": "我们上午九点开会。",
+    "pinyin": "Wǒmen shàngwǔ jiǔ diǎn kāihuì.",
+    "en": "We have a meeting at nine in the morning."
+   },
+   {
+    "zh": "现在八点。",
+    "pinyin": "Xiànzài bā diǎn.",
+    "en": "It is eight o'clock."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "今",
+  "traditional": null,
+  "pinyin": [
+   "jīn"
+  ],
+  "audioKey": "jin1",
+  "meanings": [
+   "now; today (in 今天)"
+  ],
+  "hskLevel": 1,
+  "radical": "人",
+  "strokeCount": 4,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "今天",
+    "pinyin": "jīntiān",
+    "meaning": "today"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is nice today."
+   },
+   {
+    "zh": "今天是星期日。",
+    "pinyin": "Jīntiān shì xīngqīrì.",
+    "en": "Today is Sunday."
+   },
+   {
+    "zh": "我今年二十岁。",
+    "pinyin": "Wǒ jīnnián èrshí suì.",
+    "en": "I am twenty years old."
+   }
+  ],
+  "similar": [
+   "个"
+  ]
+ },
+ {
+  "character": "明",
+  "traditional": null,
+  "pinyin": [
+   "míng"
+  ],
+  "audioKey": "ming2",
+  "meanings": [
+   "bright",
+   "next (in 明天)"
+  ],
+  "hskLevel": 1,
+  "radical": "日",
+  "strokeCount": 8,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "明天",
+    "pinyin": "míngtiān",
+    "meaning": "tomorrow"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我们明天见。",
+    "pinyin": "Wǒmen míngtiān jiàn.",
+    "en": "See you tomorrow."
+   },
+   {
+    "zh": "明天去怎么样？",
+    "pinyin": "Míngtiān qù zěnmeyàng?",
+    "en": "How about going tomorrow?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "昨",
+  "traditional": null,
+  "pinyin": [
+   "zuó"
+  ],
+  "audioKey": "zuo2",
+  "meanings": [
+   "yesterday (in 昨天)"
+  ],
+  "hskLevel": 1,
+  "radical": "日",
+  "strokeCount": 9,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "昨天",
+    "pinyin": "zuótiān",
+    "meaning": "yesterday"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他昨天回家了。",
+    "pinyin": "Tā zuótiān huí jiā le.",
+    "en": "He went home yesterday."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "星",
+  "traditional": null,
+  "pinyin": [
+   "xīng"
+  ],
+  "audioKey": "xing1",
+  "meanings": [
+   "star",
+   "week (in 星期)"
+  ],
+  "hskLevel": 1,
+  "radical": "日",
+  "strokeCount": 9,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "星期",
+    "pinyin": "xīngqī",
+    "meaning": "week"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天是星期日。",
+    "pinyin": "Jīntiān shì xīngqīrì.",
+    "en": "Today is Sunday."
+   },
+   {
+    "zh": "一个星期有七天。",
+    "pinyin": "Yí ge xīngqī yǒu qī tiān.",
+    "en": "A week has seven days."
+   },
+   {
+    "zh": "六月一号是星期一。",
+    "pinyin": "Liù yuè yī hào shì xīngqīyī.",
+    "en": "June 1st is a Monday."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "期",
+  "traditional": null,
+  "pinyin": [
+   "qī"
+  ],
+  "audioKey": "qi1",
+  "meanings": [
+   "period of time",
+   "week (in 星期)"
+  ],
+  "hskLevel": 1,
+  "radical": "月",
+  "strokeCount": 12,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "星期",
+    "pinyin": "xīngqī",
+    "meaning": "week"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天是星期日。",
+    "pinyin": "Jīntiān shì xīngqīrì.",
+    "en": "Today is Sunday."
+   },
+   {
+    "zh": "一个星期有七天。",
+    "pinyin": "Yí ge xīngqī yǒu qī tiān.",
+    "en": "A week has seven days."
+   },
+   {
+    "zh": "六月一号是星期一。",
+    "pinyin": "Liù yuè yī hào shì xīngqīyī.",
+    "en": "June 1st is a Monday."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "午",
+  "traditional": null,
+  "pinyin": [
+   "wǔ"
+  ],
+  "audioKey": "wu3",
+  "meanings": [
+   "noon"
+  ],
+  "hskLevel": 1,
+  "radical": "十",
+  "strokeCount": 4,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "morning"
+   },
+   {
+    "word": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "afternoon"
+   },
+   {
+    "word": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "noon"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我下午去商店。",
+    "pinyin": "Wǒ xiàwǔ qù shāngdiàn.",
+    "en": "I'm going to the shop in the afternoon."
+   },
+   {
+    "zh": "我们上午九点开会。",
+    "pinyin": "Wǒmen shàngwǔ jiǔ diǎn kāihuì.",
+    "en": "We have a meeting at nine in the morning."
+   },
+   {
+    "zh": "现在是中午。",
+    "pinyin": "Xiànzài shì zhōngwǔ.",
+    "en": "It is noon now."
+   }
+  ],
+  "similar": [
+   "年"
+  ]
+ },
+ {
+  "character": "现",
+  "traditional": "現",
+  "pinyin": [
+   "xiàn"
+  ],
+  "audioKey": "xian4",
+  "meanings": [
+   "present; now (in 现在)"
+  ],
+  "hskLevel": 1,
+  "radical": "王",
+  "strokeCount": 8,
+  "topics": [
+   "time"
+  ],
+  "words": [
+   {
+    "word": "现在",
+    "pinyin": "xiànzài",
+    "meaning": "now"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "en": "What time is it now?"
+   },
+   {
+    "zh": "现在是中午。",
+    "pinyin": "Xiànzài shì zhōngwǔ.",
+    "en": "It is noon now."
+   },
+   {
+    "zh": "现在是零下十度。",
+    "pinyin": "Xiànzài shì líng xià shí dù.",
+    "en": "It is minus ten degrees now."
+   }
+  ],
+  "similar": [
+   "见"
+  ]
+ },
+ {
+  "character": "在",
+  "traditional": null,
+  "pinyin": [
+   "zài"
+  ],
+  "audioKey": "zai4",
+  "meanings": [
+   "at; in",
+   "to be (somewhere)"
+  ],
+  "hskLevel": 1,
+  "radical": "土",
+  "strokeCount": 6,
+  "topics": [
+   "time",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "现在",
+    "pinyin": "xiànzài",
+    "meaning": "now"
+   },
+   {
+    "word": "在",
+    "pinyin": "zài",
+    "meaning": "at; in"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "He works at a hospital."
+   },
+   {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "en": "What time is it now?"
+   },
+   {
+    "zh": "猫在桌子下面。",
+    "pinyin": "Māo zài zhuōzi xiàmiàn.",
+    "en": "The cat is under the table."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "家",
+  "traditional": null,
+  "pinyin": [
+   "jiā"
+  ],
+  "audioKey": "jia1",
+  "meanings": [
+   "home",
+   "family"
+  ],
+  "hskLevel": 1,
+  "radical": "宀",
+  "strokeCount": 10,
+  "topics": [
+   "family"
+  ],
+  "words": [
+   {
+    "word": "家",
+    "pinyin": "jiā",
+    "meaning": "home; family"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "狗在家里。",
+    "pinyin": "Gǒu zài jiā li.",
+    "en": "The dog is at home."
+   },
+   {
+    "zh": "他昨天回家了。",
+    "pinyin": "Tā zuótiān huí jiā le.",
+    "en": "He went home yesterday."
+   },
+   {
+    "zh": "我家有四口人。",
+    "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+    "en": "There are four people in my family."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "爸",
+  "traditional": null,
+  "pinyin": [
+   "bà"
+  ],
+  "audioKey": "ba4",
+  "meanings": [
+   "dad; father"
+  ],
+  "hskLevel": 1,
+  "radical": "父",
+  "strokeCount": 8,
+  "topics": [
+   "family"
+  ],
+  "words": [
+   {
+    "word": "爸爸",
+    "pinyin": "bàba",
+    "meaning": "dad"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "爸爸喝水。",
+    "pinyin": "Bàba hē shuǐ.",
+    "en": "Dad drinks water."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "妈",
+  "traditional": "媽",
+  "pinyin": [
+   "mā"
+  ],
+  "audioKey": "ma1",
+  "meanings": [
+   "mom; mother"
+  ],
+  "hskLevel": 1,
+  "radical": "女",
+  "strokeCount": 6,
+  "topics": [
+   "family"
+  ],
+  "words": [
+   {
+    "word": "妈妈",
+    "pinyin": "māma",
+    "meaning": "mom"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "妈妈在做饭。",
+    "pinyin": "Māma zài zuò fàn.",
+    "en": "Mom is cooking."
+   }
+  ],
+  "similar": [
+   "吗"
+  ]
+ },
+ {
+  "character": "儿",
+  "traditional": "兒",
+  "pinyin": [
+   "ér",
+   "r"
+  ],
+  "audioKey": "er2",
+  "meanings": [
+   "son; child"
+  ],
+  "hskLevel": 1,
+  "radical": "儿",
+  "strokeCount": 2,
+  "topics": [
+   "family"
+  ],
+  "words": [
+   {
+    "word": "儿子",
+    "pinyin": "érzi",
+    "meaning": "son"
+   },
+   {
+    "word": "哪儿",
+    "pinyin": "nǎr",
+    "meaning": "where"
+   },
+   {
+    "word": "女儿",
+    "pinyin": "nǚ'ér",
+    "meaning": "daughter"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她有一个女儿。",
+    "pinyin": "Tā yǒu yí ge nǚ'ér.",
+    "en": "She has a daughter."
+   },
+   {
+    "zh": "他有一个儿子。",
+    "pinyin": "Tā yǒu yí ge érzi.",
+    "en": "He has a son."
+   },
+   {
+    "zh": "你住在哪儿？",
+    "pinyin": "Nǐ zhù zài nǎr?",
+    "en": "Where do you live?"
+   }
+  ],
+  "similar": [
+   "几"
+  ]
+ },
+ {
+  "character": "女",
+  "traditional": null,
+  "pinyin": [
+   "nǚ"
+  ],
+  "audioKey": "nv3",
+  "meanings": [
+   "female",
+   "daughter (in 女儿)"
+  ],
+  "hskLevel": 1,
+  "radical": "女",
+  "strokeCount": 3,
+  "topics": [
+   "family",
+   "people"
+  ],
+  "words": [
+   {
+    "word": "女儿",
+    "pinyin": "nǚ'ér",
+    "meaning": "daughter"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她有一个女儿。",
+    "pinyin": "Tā yǒu yí ge nǚ'ér.",
+    "en": "She has a daughter."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "子",
+  "traditional": null,
+  "pinyin": [
+   "zǐ",
+   "zi"
+  ],
+  "audioKey": "zi3",
+  "meanings": [
+   "child",
+   "(noun suffix)"
+  ],
+  "hskLevel": 1,
+  "radical": "子",
+  "strokeCount": 3,
+  "topics": [
+   "family",
+   "people"
+  ],
+  "words": [
+   {
+    "word": "杯子",
+    "pinyin": "bēizi",
+    "meaning": "cup; glass"
+   },
+   {
+    "word": "儿子",
+    "pinyin": "érzi",
+    "meaning": "son"
+   },
+   {
+    "word": "椅子",
+    "pinyin": "yǐzi",
+    "meaning": "chair"
+   },
+   {
+    "word": "桌子",
+    "pinyin": "zhuōzi",
+    "meaning": "table; desk"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他有一个儿子。",
+    "pinyin": "Tā yǒu yí ge érzi.",
+    "en": "He has a son."
+   },
+   {
+    "zh": "猫在桌子下面。",
+    "pinyin": "Māo zài zhuōzi xiàmiàn.",
+    "en": "The cat is under the table."
+   },
+   {
+    "zh": "杯子里有水。",
+    "pinyin": "Bēizi li yǒu shuǐ.",
+    "en": "There is water in the cup."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "人",
+  "traditional": null,
+  "pinyin": [
+   "rén"
+  ],
+  "audioKey": "ren2",
+  "meanings": [
+   "person; people"
+  ],
+  "hskLevel": 1,
+  "radical": "人",
+  "strokeCount": 2,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "人",
+    "pinyin": "rén",
+    "meaning": "person"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他是中国人。",
+    "pinyin": "Tā shì Zhōngguó rén.",
+    "en": "He is Chinese."
+   },
+   {
+    "zh": "人很少。",
+    "pinyin": "Rén hěn shǎo.",
+    "en": "There are very few people."
+   },
+   {
+    "zh": "我家有四口人。",
+    "pinyin": "Wǒ jiā yǒu sì kǒu rén.",
+    "en": "There are four people in my family."
+   }
+  ],
+  "similar": [
+   "八",
+   "火"
+  ]
+ },
+ {
+  "character": "朋",
+  "traditional": null,
+  "pinyin": [
+   "péng"
+  ],
+  "audioKey": "peng2",
+  "meanings": [
+   "friend (in 朋友)"
+  ],
+  "hskLevel": 1,
+  "radical": "月",
+  "strokeCount": 8,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "朋友",
+    "pinyin": "péngyou",
+    "meaning": "friend"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "en": "He is my friend."
+   },
+   {
+    "zh": "他们是好朋友。",
+    "pinyin": "Tāmen shì hǎo péngyou.",
+    "en": "They are good friends."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "友",
+  "traditional": null,
+  "pinyin": [
+   "yǒu"
+  ],
+  "audioKey": "you3",
+  "meanings": [
+   "friend"
+  ],
+  "hskLevel": 1,
+  "radical": "又",
+  "strokeCount": 4,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "朋友",
+    "pinyin": "péngyou",
+    "meaning": "friend"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "en": "He is my friend."
+   },
+   {
+    "zh": "他们是好朋友。",
+    "pinyin": "Tāmen shì hǎo péngyou.",
+    "en": "They are good friends."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "我",
+  "traditional": null,
+  "pinyin": [
+   "wǒ"
+  ],
+  "audioKey": "wo3",
+  "meanings": [
+   "I; me"
+  ],
+  "hskLevel": 1,
+  "radical": "戈",
+  "strokeCount": 7,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "我",
+    "pinyin": "wǒ",
+    "meaning": "I; me"
+   },
+   {
+    "word": "我们",
+    "pinyin": "wǒmen",
+    "meaning": "we; us"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我爱你。",
+    "pinyin": "Wǒ ài nǐ.",
+    "en": "I love you."
+   },
+   {
+    "zh": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "en": "I am a student."
+   },
+   {
+    "zh": "我很好，你呢？",
+    "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm fine, and you?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "你",
+  "traditional": null,
+  "pinyin": [
+   "nǐ"
+  ],
+  "audioKey": "ni3",
+  "meanings": [
+   "you"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 7,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "你",
+    "pinyin": "nǐ",
+    "meaning": "you"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我爱你。",
+    "pinyin": "Wǒ ài nǐ.",
+    "en": "I love you."
+   },
+   {
+    "zh": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "en": "How are you?"
+   },
+   {
+    "zh": "我很好，你呢？",
+    "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm fine, and you?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "他",
+  "traditional": null,
+  "pinyin": [
+   "tā"
+  ],
+  "audioKey": "ta1",
+  "meanings": [
+   "he; him"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 5,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "他",
+    "pinyin": "tā",
+    "meaning": "he; him"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "en": "He is my friend."
+   },
+   {
+    "zh": "他有一个儿子。",
+    "pinyin": "Tā yǒu yí ge érzi.",
+    "en": "He has a son."
+   },
+   {
+    "zh": "他在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "He works at a hospital."
+   }
+  ],
+  "similar": [
+   "她"
+  ]
+ },
+ {
+  "character": "她",
+  "traditional": null,
+  "pinyin": [
+   "tā"
+  ],
+  "audioKey": "ta1",
+  "meanings": [
+   "she; her"
+  ],
+  "hskLevel": 1,
+  "radical": "女",
+  "strokeCount": 6,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "她",
+    "pinyin": "tā",
+    "meaning": "she; her"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她有一个女儿。",
+    "pinyin": "Tā yǒu yí ge nǚ'ér.",
+    "en": "She has a daughter."
+   },
+   {
+    "zh": "我认识她。",
+    "pinyin": "Wǒ rènshi tā.",
+    "en": "I know her."
+   },
+   {
+    "zh": "她很漂亮。",
+    "pinyin": "Tā hěn piàoliang.",
+    "en": "She is very pretty."
+   }
+  ],
+  "similar": [
+   "他"
+  ]
+ },
+ {
+  "character": "们",
+  "traditional": "們",
+  "pinyin": [
+   "men"
+  ],
+  "audioKey": "men5",
+  "meanings": [
+   "(plural suffix for people)"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 5,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "我们",
+    "pinyin": "wǒmen",
+    "meaning": "we; us"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我们明天见。",
+    "pinyin": "Wǒmen míngtiān jiàn.",
+    "en": "See you tomorrow."
+   },
+   {
+    "zh": "我们是同学。",
+    "pinyin": "Wǒmen shì tóngxué.",
+    "en": "We are classmates."
+   },
+   {
+    "zh": "我们上午九点开会。",
+    "pinyin": "Wǒmen shàngwǔ jiǔ diǎn kāihuì.",
+    "en": "We have a meeting at nine in the morning."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "先",
+  "traditional": null,
+  "pinyin": [
+   "xiān"
+  ],
+  "audioKey": "xian1",
+  "meanings": [
+   "first",
+   "Mr. (in 先生)"
+  ],
+  "hskLevel": 1,
+  "radical": "儿",
+  "strokeCount": 6,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "先生",
+    "pinyin": "xiānsheng",
+    "meaning": "Mr.; sir"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "先生，你好！",
+    "pinyin": "Xiānsheng, nǐ hǎo!",
+    "en": "Hello, sir!"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "生",
+  "traditional": null,
+  "pinyin": [
+   "shēng"
+  ],
+  "audioKey": "sheng1",
+  "meanings": [
+   "to be born",
+   "student (in 学生)",
+   "Mr. (in 先生)"
+  ],
+  "hskLevel": 1,
+  "radical": "生",
+  "strokeCount": 5,
+  "topics": [
+   "people",
+   "school"
+  ],
+  "words": [
+   {
+    "word": "先生",
+    "pinyin": "xiānsheng",
+    "meaning": "Mr.; sir"
+   },
+   {
+    "word": "学生",
+    "pinyin": "xuésheng",
+    "meaning": "student"
+   },
+   {
+    "word": "医生",
+    "pinyin": "yīshēng",
+    "meaning": "doctor"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "en": "I am a student."
+   },
+   {
+    "zh": "先生，你好！",
+    "pinyin": "Xiānsheng, nǐ hǎo!",
+    "en": "Hello, sir!"
+   },
+   {
+    "zh": "他和我都是学生。",
+    "pinyin": "Tā hé wǒ dōu shì xuésheng.",
+    "en": "He and I are both students."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "小",
+  "traditional": null,
+  "pinyin": [
+   "xiǎo"
+  ],
+  "audioKey": "xiao3",
+  "meanings": [
+   "small; little",
+   "Miss (in 小姐)"
+  ],
+  "hskLevel": 1,
+  "radical": "小",
+  "strokeCount": 3,
+  "topics": [
+   "people",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "小",
+    "pinyin": "xiǎo",
+    "meaning": "small"
+   },
+   {
+    "word": "小姐",
+    "pinyin": "xiǎojiě",
+    "meaning": "Miss"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "小姐，请喝茶。",
+    "pinyin": "Xiǎojiě, qǐng hē chá.",
+    "en": "Miss, please have some tea."
+   }
+  ],
+  "similar": [
+   "水"
+  ]
+ },
+ {
+  "character": "姐",
+  "traditional": null,
+  "pinyin": [
+   "jiě"
+  ],
+  "audioKey": "jie3",
+  "meanings": [
+   "older sister",
+   "Miss (in 小姐)"
+  ],
+  "hskLevel": 1,
+  "radical": "女",
+  "strokeCount": 8,
+  "topics": [
+   "family",
+   "people"
+  ],
+  "words": [
+   {
+    "word": "小姐",
+    "pinyin": "xiǎojiě",
+    "meaning": "Miss"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "小姐，请喝茶。",
+    "pinyin": "Xiǎojiě, qǐng hē chá.",
+    "en": "Miss, please have some tea."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "谁",
+  "traditional": "誰",
+  "pinyin": [
+   "shéi",
+   "shuí"
+  ],
+  "audioKey": "shei2",
+  "meanings": [
+   "who"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 10,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "谁",
+    "pinyin": "shéi",
+    "meaning": "who"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你听，谁在说话？",
+    "pinyin": "Nǐ tīng, shéi zài shuōhuà?",
+    "en": "Listen, who is speaking?"
+   },
+   {
+    "zh": "这些东西是谁的？",
+    "pinyin": "Zhèxiē dōngxi shì shéi de?",
+    "en": "Whose things are these?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "名",
+  "traditional": null,
+  "pinyin": [
+   "míng"
+  ],
+  "audioKey": "ming2",
+  "meanings": [
+   "name"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 6,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "名字",
+    "pinyin": "míngzi",
+    "meaning": "name"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "en": "Please write your name."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "字",
+  "traditional": null,
+  "pinyin": [
+   "zì"
+  ],
+  "audioKey": "zi4",
+  "meanings": [
+   "character; word"
+  ],
+  "hskLevel": 1,
+  "radical": "子",
+  "strokeCount": 6,
+  "topics": [
+   "people",
+   "school"
+  ],
+  "words": [
+   {
+    "word": "名字",
+    "pinyin": "míngzi",
+    "meaning": "name"
+   },
+   {
+    "word": "字",
+    "pinyin": "zì",
+    "meaning": "character; word"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "en": "Please write your name."
+   },
+   {
+    "zh": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "en": "How do you write this character?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "医",
+  "traditional": "醫",
+  "pinyin": [
+   "yī"
+  ],
+  "audioKey": "yi1",
+  "meanings": [
+   "doctor; medicine (in 医生)"
+  ],
+  "hskLevel": 1,
+  "radical": "匸",
+  "strokeCount": 7,
+  "topics": [
+   "people"
+  ],
+  "words": [
+   {
+    "word": "医生",
+    "pinyin": "yīshēng",
+    "meaning": "doctor"
+   },
+   {
+    "word": "医院",
+    "pinyin": "yīyuàn",
+    "meaning": "hospital"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "He works at a hospital."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "老",
+  "traditional": null,
+  "pinyin": [
+   "lǎo"
+  ],
+  "audioKey": "lao3",
+  "meanings": [
+   "old",
+   "teacher (in 老师)"
+  ],
+  "hskLevel": 1,
+  "radical": "老",
+  "strokeCount": 6,
+  "topics": [
+   "people",
+   "school"
+  ],
+  "words": [
+   {
+    "word": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "teacher"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "老师在学校。",
+    "pinyin": "Lǎoshī zài xuéxiào.",
+    "en": "The teacher is at school."
+   },
+   {
+    "zh": "老师喜欢喝咖啡吗？",
+    "pinyin": "Lǎoshī xǐhuan hē kāfēi ma?",
+    "en": "Does the teacher like coffee?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "师",
+  "traditional": "師",
+  "pinyin": [
+   "shī"
+  ],
+  "audioKey": "shi1",
+  "meanings": [
+   "teacher (in 老师)"
+  ],
+  "hskLevel": 1,
+  "radical": "巾",
+  "strokeCount": 6,
+  "topics": [
+   "people",
+   "school"
+  ],
+  "words": [
+   {
+    "word": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "teacher"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "老师在学校。",
+    "pinyin": "Lǎoshī zài xuéxiào.",
+    "en": "The teacher is at school."
+   },
+   {
+    "zh": "老师喜欢喝咖啡吗？",
+    "pinyin": "Lǎoshī xǐhuan hē kāfēi ma?",
+    "en": "Does the teacher like coffee?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "同",
+  "traditional": null,
+  "pinyin": [
+   "tóng"
+  ],
+  "audioKey": "tong2",
+  "meanings": [
+   "same",
+   "classmate (in 同学)"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 6,
+  "topics": [
+   "people",
+   "school"
+  ],
+  "words": [
+   {
+    "word": "同学",
+    "pinyin": "tóngxué",
+    "meaning": "classmate"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我们是同学。",
+    "pinyin": "Wǒmen shì tóngxué.",
+    "en": "We are classmates."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "吃",
+  "traditional": null,
+  "pinyin": [
+   "chī"
+  ],
+  "audioKey": "chi1",
+  "meanings": [
+   "to eat"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 6,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "吃",
+    "pinyin": "chī",
+    "meaning": "to eat"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我不吃米饭。",
+    "pinyin": "Wǒ bù chī mǐfàn.",
+    "en": "I don't eat rice."
+   },
+   {
+    "zh": "你想吃什么菜？",
+    "pinyin": "Nǐ xiǎng chī shénme cài?",
+    "en": "What dish do you want to eat?"
+   },
+   {
+    "zh": "我喜欢吃水果。",
+    "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "en": "I like eating fruit."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "喝",
+  "traditional": null,
+  "pinyin": [
+   "hē"
+  ],
+  "audioKey": "he1",
+  "meanings": [
+   "to drink"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 12,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "喝",
+    "pinyin": "hē",
+    "meaning": "to drink"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuan hē chá.",
+    "en": "I like drinking tea."
+   },
+   {
+    "zh": "爸爸喝水。",
+    "pinyin": "Bàba hē shuǐ.",
+    "en": "Dad drinks water."
+   },
+   {
+    "zh": "小姐，请喝茶。",
+    "pinyin": "Xiǎojiě, qǐng hē chá.",
+    "en": "Miss, please have some tea."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "茶",
+  "traditional": null,
+  "pinyin": [
+   "chá"
+  ],
+  "audioKey": "cha2",
+  "meanings": [
+   "tea"
+  ],
+  "hskLevel": 1,
+  "radical": "艹",
+  "strokeCount": 9,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "茶",
+    "pinyin": "chá",
+    "meaning": "tea"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuan hē chá.",
+    "en": "I like drinking tea."
+   },
+   {
+    "zh": "小姐，请喝茶。",
+    "pinyin": "Xiǎojiě, qǐng hē chá.",
+    "en": "Miss, please have some tea."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "水",
+  "traditional": null,
+  "pinyin": [
+   "shuǐ"
+  ],
+  "audioKey": "shui3",
+  "meanings": [
+   "water"
+  ],
+  "hskLevel": 1,
+  "radical": "水",
+  "strokeCount": 4,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "水",
+    "pinyin": "shuǐ",
+    "meaning": "water"
+   },
+   {
+    "word": "水果",
+    "pinyin": "shuǐguǒ",
+    "meaning": "fruit"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "爸爸喝水。",
+    "pinyin": "Bàba hē shuǐ.",
+    "en": "Dad drinks water."
+   },
+   {
+    "zh": "杯子里有水。",
+    "pinyin": "Bēizi li yǒu shuǐ.",
+    "en": "There is water in the cup."
+   },
+   {
+    "zh": "我喜欢吃水果。",
+    "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "en": "I like eating fruit."
+   }
+  ],
+  "similar": [
+   "小"
+  ]
+ },
+ {
+  "character": "菜",
+  "traditional": null,
+  "pinyin": [
+   "cài"
+  ],
+  "audioKey": "cai4",
+  "meanings": [
+   "dish (of food)",
+   "vegetable"
+  ],
+  "hskLevel": 1,
+  "radical": "艹",
+  "strokeCount": 11,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "菜",
+    "pinyin": "cài",
+    "meaning": "dish; vegetable"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你想吃什么菜？",
+    "pinyin": "Nǐ xiǎng chī shénme cài?",
+    "en": "What dish do you want to eat?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "饭",
+  "traditional": "飯",
+  "pinyin": [
+   "fàn"
+  ],
+  "audioKey": "fan4",
+  "meanings": [
+   "cooked rice",
+   "meal"
+  ],
+  "hskLevel": 1,
+  "radical": "饣",
+  "strokeCount": 7,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "饭店",
+    "pinyin": "fàndiàn",
+    "meaning": "restaurant; hotel"
+   },
+   {
+    "word": "米饭",
+    "pinyin": "mǐfàn",
+    "meaning": "cooked rice"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我不吃米饭。",
+    "pinyin": "Wǒ bù chī mǐfàn.",
+    "en": "I don't eat rice."
+   },
+   {
+    "zh": "妈妈在做饭。",
+    "pinyin": "Māma zài zuò fàn.",
+    "en": "Mom is cooking."
+   },
+   {
+    "zh": "商店在饭店后面。",
+    "pinyin": "Shāngdiàn zài fàndiàn hòumiàn.",
+    "en": "The shop is behind the restaurant."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "米",
+  "traditional": null,
+  "pinyin": [
+   "mǐ"
+  ],
+  "audioKey": "mi3",
+  "meanings": [
+   "rice (uncooked)",
+   "meter"
+  ],
+  "hskLevel": 1,
+  "radical": "米",
+  "strokeCount": 6,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "米饭",
+    "pinyin": "mǐfàn",
+    "meaning": "cooked rice"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我不吃米饭。",
+    "pinyin": "Wǒ bù chī mǐfàn.",
+    "en": "I don't eat rice."
+   }
+  ],
+  "similar": [
+   "来"
+  ]
+ },
+ {
+  "character": "果",
+  "traditional": null,
+  "pinyin": [
+   "guǒ"
+  ],
+  "audioKey": "guo3",
+  "meanings": [
+   "fruit"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 8,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "apple"
+   },
+   {
+    "word": "水果",
+    "pinyin": "shuǐguǒ",
+    "meaning": "fruit"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我想买苹果。",
+    "pinyin": "Wǒ xiǎng mǎi píngguǒ.",
+    "en": "I want to buy apples."
+   },
+   {
+    "zh": "我买了五个苹果。",
+    "pinyin": "Wǒ mǎi le wǔ ge píngguǒ.",
+    "en": "I bought five apples."
+   },
+   {
+    "zh": "我喜欢吃水果。",
+    "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "en": "I like eating fruit."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "苹",
+  "traditional": "蘋",
+  "pinyin": [
+   "píng"
+  ],
+  "audioKey": "ping2",
+  "meanings": [
+   "apple (in 苹果)"
+  ],
+  "hskLevel": 1,
+  "radical": "艹",
+  "strokeCount": 8,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "apple"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我想买苹果。",
+    "pinyin": "Wǒ xiǎng mǎi píngguǒ.",
+    "en": "I want to buy apples."
+   },
+   {
+    "zh": "我买了五个苹果。",
+    "pinyin": "Wǒ mǎi le wǔ ge píngguǒ.",
+    "en": "I bought five apples."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "杯",
+  "traditional": null,
+  "pinyin": [
+   "bēi"
+  ],
+  "audioKey": "bei1",
+  "meanings": [
+   "cup; glass"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 8,
+  "topics": [
+   "food"
+  ],
+  "words": [
+   {
+    "word": "杯子",
+    "pinyin": "bēizi",
+    "meaning": "cup; glass"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "杯子里有水。",
+    "pinyin": "Bēizi li yǒu shuǐ.",
+    "en": "There is water in the cup."
+   },
+   {
+    "zh": "椅子上有一个杯子。",
+    "pinyin": "Yǐzi shang yǒu yí ge bēizi.",
+    "en": "There is a cup on the chair."
+   },
+   {
+    "zh": "我要一杯水。",
+    "pinyin": "Wǒ yào yì bēi shuǐ.",
+    "en": "I want a glass of water."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "学",
+  "traditional": "學",
+  "pinyin": [
+   "xué"
+  ],
+  "audioKey": "xue2",
+  "meanings": [
+   "to learn; to study",
+   "school (in 学校)"
+  ],
+  "hskLevel": 1,
+  "radical": "子",
+  "strokeCount": 8,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "同学",
+    "pinyin": "tóngxué",
+    "meaning": "classmate"
+   },
+   {
+    "word": "学生",
+    "pinyin": "xuésheng",
+    "meaning": "student"
+   },
+   {
+    "word": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "to study"
+   },
+   {
+    "word": "学校",
+    "pinyin": "xuéxiào",
+    "meaning": "school"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "en": "I am a student."
+   },
+   {
+    "zh": "我去学校。",
+    "pinyin": "Wǒ qù xuéxiào.",
+    "en": "I go to school."
+   },
+   {
+    "zh": "老师在学校。",
+    "pinyin": "Lǎoshī zài xuéxiào.",
+    "en": "The teacher is at school."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "习",
+  "traditional": "習",
+  "pinyin": [
+   "xí"
+  ],
+  "audioKey": "xi2",
+  "meanings": [
+   "to practice; to study (in 学习)"
+  ],
+  "hskLevel": 1,
+  "radical": "冫",
+  "strokeCount": 3,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "to study"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我在学习汉语。",
+    "pinyin": "Wǒ zài xuéxí Hànyǔ.",
+    "en": "I am studying Chinese."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "校",
+  "traditional": null,
+  "pinyin": [
+   "xiào"
+  ],
+  "audioKey": "xiao4",
+  "meanings": [
+   "school (in 学校)"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 10,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "学校",
+    "pinyin": "xuéxiào",
+    "meaning": "school"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我去学校。",
+    "pinyin": "Wǒ qù xuéxiào.",
+    "en": "I go to school."
+   },
+   {
+    "zh": "老师在学校。",
+    "pinyin": "Lǎoshī zài xuéxiào.",
+    "en": "The teacher is at school."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "书",
+  "traditional": "書",
+  "pinyin": [
+   "shū"
+  ],
+  "audioKey": "shu1",
+  "meanings": [
+   "book"
+  ],
+  "hskLevel": 1,
+  "radical": "丨",
+  "strokeCount": 4,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "书",
+    "pinyin": "shū",
+    "meaning": "book"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "那是我的书。",
+    "pinyin": "Nà shì wǒ de shū.",
+    "en": "That is my book."
+   },
+   {
+    "zh": "我读书。",
+    "pinyin": "Wǒ dú shū.",
+    "en": "I read books."
+   },
+   {
+    "zh": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "en": "I have a book."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "读",
+  "traditional": "讀",
+  "pinyin": [
+   "dú"
+  ],
+  "audioKey": "du2",
+  "meanings": [
+   "to read"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 10,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "读",
+    "pinyin": "dú",
+    "meaning": "to read"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我读书。",
+    "pinyin": "Wǒ dú shū.",
+    "en": "I read books."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "写",
+  "traditional": "寫",
+  "pinyin": [
+   "xiě"
+  ],
+  "audioKey": "xie3",
+  "meanings": [
+   "to write"
+  ],
+  "hskLevel": 1,
+  "radical": "冖",
+  "strokeCount": 5,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "写",
+    "pinyin": "xiě",
+    "meaning": "to write"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "en": "Please write your name."
+   },
+   {
+    "zh": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "en": "How do you write this character?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "本",
+  "traditional": null,
+  "pinyin": [
+   "běn"
+  ],
+  "audioKey": "ben3",
+  "meanings": [
+   "(measure word for books)",
+   "origin"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 5,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "本",
+    "pinyin": "běn",
+    "meaning": "(measure word for books)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "en": "I have a book."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "汉",
+  "traditional": "漢",
+  "pinyin": [
+   "hàn"
+  ],
+  "audioKey": "han4",
+  "meanings": [
+   "Chinese (in 汉语)",
+   "Han ethnicity"
+  ],
+  "hskLevel": 1,
+  "radical": "氵",
+  "strokeCount": 5,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "汉语",
+    "pinyin": "Hànyǔ",
+    "meaning": "Chinese language"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我会说汉语。",
+    "pinyin": "Wǒ huì shuō Hànyǔ.",
+    "en": "I can speak Chinese."
+   },
+   {
+    "zh": "我在学习汉语。",
+    "pinyin": "Wǒ zài xuéxí Hànyǔ.",
+    "en": "I am studying Chinese."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "语",
+  "traditional": "語",
+  "pinyin": [
+   "yǔ"
+  ],
+  "audioKey": "yu3",
+  "meanings": [
+   "language"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 9,
+  "topics": [
+   "school"
+  ],
+  "words": [
+   {
+    "word": "汉语",
+    "pinyin": "Hànyǔ",
+    "meaning": "Chinese language"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我会说汉语。",
+    "pinyin": "Wǒ huì shuō Hànyǔ.",
+    "en": "I can speak Chinese."
+   },
+   {
+    "zh": "我在学习汉语。",
+    "pinyin": "Wǒ zài xuéxí Hànyǔ.",
+    "en": "I am studying Chinese."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "说",
+  "traditional": "說",
+  "pinyin": [
+   "shuō"
+  ],
+  "audioKey": "shuo1",
+  "meanings": [
+   "to speak; to say"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 9,
+  "topics": [
+   "school",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "说",
+    "pinyin": "shuō",
+    "meaning": "to speak"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我会说汉语。",
+    "pinyin": "Wǒ huì shuō Hànyǔ.",
+    "en": "I can speak Chinese."
+   },
+   {
+    "zh": "你听，谁在说话？",
+    "pinyin": "Nǐ tīng, shéi zài shuōhuà?",
+    "en": "Listen, who is speaking?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "听",
+  "traditional": "聽",
+  "pinyin": [
+   "tīng"
+  ],
+  "audioKey": "ting1",
+  "meanings": [
+   "to listen"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 7,
+  "topics": [
+   "school",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "听",
+    "pinyin": "tīng",
+    "meaning": "to listen"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你听，谁在说话？",
+    "pinyin": "Nǐ tīng, shéi zài shuōhuà?",
+    "en": "Listen, who is speaking?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "看",
+  "traditional": null,
+  "pinyin": [
+   "kàn"
+  ],
+  "audioKey": "kan4",
+  "meanings": [
+   "to look; to watch; to read"
+  ],
+  "hskLevel": 1,
+  "radical": "目",
+  "strokeCount": 9,
+  "topics": [
+   "school",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "看",
+    "pinyin": "kàn",
+    "meaning": "to look; to watch"
+   },
+   {
+    "word": "看见",
+    "pinyin": "kànjiàn",
+    "meaning": "to see"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我在看电视。",
+    "pinyin": "Wǒ zài kàn diànshì.",
+    "en": "I am watching TV."
+   },
+   {
+    "zh": "他喜欢看电影。",
+    "pinyin": "Tā xǐhuan kàn diànyǐng.",
+    "en": "He likes watching movies."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "中",
+  "traditional": null,
+  "pinyin": [
+   "zhōng"
+  ],
+  "audioKey": "zhong1",
+  "meanings": [
+   "middle; center",
+   "China (in 中国)"
+  ],
+  "hskLevel": 1,
+  "radical": "丨",
+  "strokeCount": 4,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "中国",
+    "pinyin": "Zhōngguó",
+    "meaning": "China"
+   },
+   {
+    "word": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "noon"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他是中国人。",
+    "pinyin": "Tā shì Zhōngguó rén.",
+    "en": "He is Chinese."
+   },
+   {
+    "zh": "现在是中午。",
+    "pinyin": "Xiànzài shì zhōngwǔ.",
+    "en": "It is noon now."
+   },
+   {
+    "zh": "中国很大。",
+    "pinyin": "Zhōngguó hěn dà.",
+    "en": "China is very big."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "国",
+  "traditional": "國",
+  "pinyin": [
+   "guó"
+  ],
+  "audioKey": "guo2",
+  "meanings": [
+   "country"
+  ],
+  "hskLevel": 1,
+  "radical": "囗",
+  "strokeCount": 8,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "中国",
+    "pinyin": "Zhōngguó",
+    "meaning": "China"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他是中国人。",
+    "pinyin": "Tā shì Zhōngguó rén.",
+    "en": "He is Chinese."
+   },
+   {
+    "zh": "中国很大。",
+    "pinyin": "Zhōngguó hěn dà.",
+    "en": "China is very big."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "北",
+  "traditional": null,
+  "pinyin": [
+   "běi"
+  ],
+  "audioKey": "bei3",
+  "meanings": [
+   "north"
+  ],
+  "hskLevel": 1,
+  "radical": "匕",
+  "strokeCount": 5,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "北京",
+    "pinyin": "Běijīng",
+    "meaning": "Beijing"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我住在北京。",
+    "pinyin": "Wǒ zhù zài Běijīng.",
+    "en": "I live in Beijing."
+   },
+   {
+    "zh": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "en": "I take a plane to Beijing."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "京",
+  "traditional": null,
+  "pinyin": [
+   "jīng"
+  ],
+  "audioKey": "jing1",
+  "meanings": [
+   "capital city (in 北京)"
+  ],
+  "hskLevel": 1,
+  "radical": "亠",
+  "strokeCount": 8,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "北京",
+    "pinyin": "Běijīng",
+    "meaning": "Beijing"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我住在北京。",
+    "pinyin": "Wǒ zhù zài Běijīng.",
+    "en": "I live in Beijing."
+   },
+   {
+    "zh": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "en": "I take a plane to Beijing."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "店",
+  "traditional": null,
+  "pinyin": [
+   "diàn"
+  ],
+  "audioKey": "dian4",
+  "meanings": [
+   "shop; store"
+  ],
+  "hskLevel": 1,
+  "radical": "广",
+  "strokeCount": 8,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "饭店",
+    "pinyin": "fàndiàn",
+    "meaning": "restaurant; hotel"
+   },
+   {
+    "word": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": "shop; store"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我下午去商店。",
+    "pinyin": "Wǒ xiàwǔ qù shāngdiàn.",
+    "en": "I'm going to the shop in the afternoon."
+   },
+   {
+    "zh": "商店在饭店后面。",
+    "pinyin": "Shāngdiàn zài fàndiàn hòumiàn.",
+    "en": "The shop is behind the restaurant."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "商",
+  "traditional": null,
+  "pinyin": [
+   "shāng"
+  ],
+  "audioKey": "shang1",
+  "meanings": [
+   "commerce; shop (in 商店)"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 11,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": "shop; store"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我下午去商店。",
+    "pinyin": "Wǒ xiàwǔ qù shāngdiàn.",
+    "en": "I'm going to the shop in the afternoon."
+   },
+   {
+    "zh": "商店在饭店后面。",
+    "pinyin": "Shāngdiàn zài fàndiàn hòumiàn.",
+    "en": "The shop is behind the restaurant."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "院",
+  "traditional": null,
+  "pinyin": [
+   "yuàn"
+  ],
+  "audioKey": "yuan4",
+  "meanings": [
+   "courtyard",
+   "hospital (in 医院)"
+  ],
+  "hskLevel": 1,
+  "radical": "阝",
+  "strokeCount": 9,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "医院",
+    "pinyin": "yīyuàn",
+    "meaning": "hospital"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "He works at a hospital."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "车",
+  "traditional": "車",
+  "pinyin": [
+   "chē"
+  ],
+  "audioKey": "che1",
+  "meanings": [
+   "car; vehicle"
+  ],
+  "hskLevel": 1,
+  "radical": "车",
+  "strokeCount": 4,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "出租车",
+    "pinyin": "chūzūchē",
+    "meaning": "taxi"
+   },
+   {
+    "word": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "train station"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他开出租车。",
+    "pinyin": "Tā kāi chūzūchē.",
+    "en": "He drives a taxi."
+   },
+   {
+    "zh": "火车站在前面。",
+    "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+    "en": "The train station is ahead."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "出",
+  "traditional": null,
+  "pinyin": [
+   "chū"
+  ],
+  "audioKey": "chu1",
+  "meanings": [
+   "to go out"
+  ],
+  "hskLevel": 1,
+  "radical": "凵",
+  "strokeCount": 5,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "出租车",
+    "pinyin": "chūzūchē",
+    "meaning": "taxi"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他开出租车。",
+    "pinyin": "Tā kāi chūzūchē.",
+    "en": "He drives a taxi."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "租",
+  "traditional": null,
+  "pinyin": [
+   "zū"
+  ],
+  "audioKey": "zu1",
+  "meanings": [
+   "to rent",
+   "taxi (in 出租车)"
+  ],
+  "hskLevel": 1,
+  "radical": "禾",
+  "strokeCount": 10,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "出租车",
+    "pinyin": "chūzūchē",
+    "meaning": "taxi"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他开出租车。",
+    "pinyin": "Tā kāi chūzūchē.",
+    "en": "He drives a taxi."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "飞",
+  "traditional": "飛",
+  "pinyin": [
+   "fēi"
+  ],
+  "audioKey": "fei1",
+  "meanings": [
+   "to fly"
+  ],
+  "hskLevel": 1,
+  "radical": "飞",
+  "strokeCount": 3,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "飞机",
+    "pinyin": "fēijī",
+    "meaning": "airplane"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "en": "I take a plane to Beijing."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "机",
+  "traditional": "機",
+  "pinyin": [
+   "jī"
+  ],
+  "audioKey": "ji1",
+  "meanings": [
+   "machine",
+   "airplane (in 飞机)"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 6,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "飞机",
+    "pinyin": "fēijī",
+    "meaning": "airplane"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "en": "I take a plane to Beijing."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "火",
+  "traditional": null,
+  "pinyin": [
+   "huǒ"
+  ],
+  "audioKey": "huo3",
+  "meanings": [
+   "fire",
+   "train (in 火车)"
+  ],
+  "hskLevel": 1,
+  "radical": "火",
+  "strokeCount": 4,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "train station"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "火车站在前面。",
+    "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+    "en": "The train station is ahead."
+   }
+  ],
+  "similar": [
+   "人"
+  ]
+ },
+ {
+  "character": "站",
+  "traditional": null,
+  "pinyin": [
+   "zhàn"
+  ],
+  "audioKey": "zhan4",
+  "meanings": [
+   "station",
+   "to stand"
+  ],
+  "hskLevel": 1,
+  "radical": "立",
+  "strokeCount": 10,
+  "topics": [
+   "travel"
+  ],
+  "words": [
+   {
+    "word": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "train station"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "火车站在前面。",
+    "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+    "en": "The train station is ahead."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "来",
+  "traditional": "來",
+  "pinyin": [
+   "lái"
+  ],
+  "audioKey": "lai2",
+  "meanings": [
+   "to come"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 7,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "来",
+    "pinyin": "lái",
+    "meaning": "to come"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你能来吗？",
+    "pinyin": "Nǐ néng lái ma?",
+    "en": "Can you come?"
+   },
+   {
+    "zh": "你什么时候来？",
+    "pinyin": "Nǐ shénme shíhou lái?",
+    "en": "When are you coming?"
+   }
+  ],
+  "similar": [
+   "米"
+  ]
+ },
+ {
+  "character": "去",
+  "traditional": null,
+  "pinyin": [
+   "qù"
+  ],
+  "audioKey": "qu4",
+  "meanings": [
+   "to go"
+  ],
+  "hskLevel": 1,
+  "radical": "厶",
+  "strokeCount": 5,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "去",
+    "pinyin": "qù",
+    "meaning": "to go"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我去学校。",
+    "pinyin": "Wǒ qù xuéxiào.",
+    "en": "I go to school."
+   },
+   {
+    "zh": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "en": "I take a plane to Beijing."
+   },
+   {
+    "zh": "我下午去商店。",
+    "pinyin": "Wǒ xiàwǔ qù shāngdiàn.",
+    "en": "I'm going to the shop in the afternoon."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "回",
+  "traditional": null,
+  "pinyin": [
+   "huí"
+  ],
+  "audioKey": "hui2",
+  "meanings": [
+   "to return; to go back"
+  ],
+  "hskLevel": 1,
+  "radical": "囗",
+  "strokeCount": 6,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "回",
+    "pinyin": "huí",
+    "meaning": "to return"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他昨天回家了。",
+    "pinyin": "Tā zuótiān huí jiā le.",
+    "en": "He went home yesterday."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "坐",
+  "traditional": null,
+  "pinyin": [
+   "zuò"
+  ],
+  "audioKey": "zuo4",
+  "meanings": [
+   "to sit",
+   "to take (transport)"
+  ],
+  "hskLevel": 1,
+  "radical": "土",
+  "strokeCount": 7,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "坐",
+    "pinyin": "zuò",
+    "meaning": "to sit"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "请坐。",
+    "pinyin": "Qǐng zuò.",
+    "en": "Please sit down."
+   },
+   {
+    "zh": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "en": "I take a plane to Beijing."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "开",
+  "traditional": "開",
+  "pinyin": [
+   "kāi"
+  ],
+  "audioKey": "kai1",
+  "meanings": [
+   "to open",
+   "to drive"
+  ],
+  "hskLevel": 1,
+  "radical": "廾",
+  "strokeCount": 4,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "开",
+    "pinyin": "kāi",
+    "meaning": "to open; to drive"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他开出租车。",
+    "pinyin": "Tā kāi chūzūchē.",
+    "en": "He drives a taxi."
+   },
+   {
+    "zh": "我们上午九点开会。",
+    "pinyin": "Wǒmen shàngwǔ jiǔ diǎn kāihuì.",
+    "en": "We have a meeting at nine in the morning."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "住",
+  "traditional": null,
+  "pinyin": [
+   "zhù"
+  ],
+  "audioKey": "zhu4",
+  "meanings": [
+   "to live (somewhere)"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 7,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "住",
+    "pinyin": "zhù",
+    "meaning": "to live (somewhere)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我住在北京。",
+    "pinyin": "Wǒ zhù zài Běijīng.",
+    "en": "I live in Beijing."
+   },
+   {
+    "zh": "你住在哪儿？",
+    "pinyin": "Nǐ zhù zài nǎr?",
+    "en": "Where do you live?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "里",
+  "traditional": "裡",
+  "pinyin": [
+   "lǐ"
+  ],
+  "audioKey": "li3",
+  "meanings": [
+   "inside; in"
+  ],
+  "hskLevel": 1,
+  "radical": "里",
+  "strokeCount": 7,
+  "topics": [
+   "travel",
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "里",
+    "pinyin": "lǐ",
+    "meaning": "inside"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "狗在家里。",
+    "pinyin": "Gǒu zài jiā li.",
+    "en": "The dog is at home."
+   },
+   {
+    "zh": "杯子里有水。",
+    "pinyin": "Bēizi li yǒu shuǐ.",
+    "en": "There is water in the cup."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "上",
+  "traditional": null,
+  "pinyin": [
+   "shàng"
+  ],
+  "audioKey": "shang4",
+  "meanings": [
+   "up; on; above",
+   "to go up"
+  ],
+  "hskLevel": 1,
+  "radical": "一",
+  "strokeCount": 3,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "上",
+    "pinyin": "shàng",
+    "meaning": "up; on"
+   },
+   {
+    "word": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "morning"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我们上午九点开会。",
+    "pinyin": "Wǒmen shàngwǔ jiǔ diǎn kāihuì.",
+    "en": "We have a meeting at nine in the morning."
+   },
+   {
+    "zh": "椅子上有一个杯子。",
+    "pinyin": "Yǐzi shang yǒu yí ge bēizi.",
+    "en": "There is a cup on the chair."
+   }
+  ],
+  "similar": [
+   "下"
+  ]
+ },
+ {
+  "character": "下",
+  "traditional": null,
+  "pinyin": [
+   "xià"
+  ],
+  "audioKey": "xia4",
+  "meanings": [
+   "down; below",
+   "to go down"
+  ],
+  "hskLevel": 1,
+  "radical": "一",
+  "strokeCount": 3,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "下",
+    "pinyin": "xià",
+    "meaning": "down; below"
+   },
+   {
+    "word": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "afternoon"
+   },
+   {
+    "word": "下雨",
+    "pinyin": "xià yǔ",
+    "meaning": "to rain"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "猫在桌子下面。",
+    "pinyin": "Māo zài zhuōzi xiàmiàn.",
+    "en": "The cat is under the table."
+   },
+   {
+    "zh": "我下午去商店。",
+    "pinyin": "Wǒ xiàwǔ qù shāngdiàn.",
+    "en": "I'm going to the shop in the afternoon."
+   },
+   {
+    "zh": "今天下雨了。",
+    "pinyin": "Jīntiān xià yǔ le.",
+    "en": "It rained today."
+   }
+  ],
+  "similar": [
+   "上"
+  ]
+ },
+ {
+  "character": "前",
+  "traditional": null,
+  "pinyin": [
+   "qián"
+  ],
+  "audioKey": "qian2",
+  "meanings": [
+   "front; before"
+  ],
+  "hskLevel": 1,
+  "radical": "刂",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "in front"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "火车站在前面。",
+    "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+    "en": "The train station is ahead."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "后",
+  "traditional": "後",
+  "pinyin": [
+   "hòu"
+  ],
+  "audioKey": "hou4",
+  "meanings": [
+   "behind; after"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "后面",
+    "pinyin": "hòumiàn",
+    "meaning": "behind"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "商店在饭店后面。",
+    "pinyin": "Shāngdiàn zài fàndiàn hòumiàn.",
+    "en": "The shop is behind the restaurant."
+   },
+   {
+    "zh": "五分钟后见。",
+    "pinyin": "Wǔ fēnzhōng hòu jiàn.",
+    "en": "See you in five minutes."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "面",
+  "traditional": null,
+  "pinyin": [
+   "miàn"
+  ],
+  "audioKey": "mian4",
+  "meanings": [
+   "side; face",
+   "noodles"
+  ],
+  "hskLevel": 1,
+  "radical": "面",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "后面",
+    "pinyin": "hòumiàn",
+    "meaning": "behind"
+   },
+   {
+    "word": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "in front"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "猫在桌子下面。",
+    "pinyin": "Māo zài zhuōzi xiàmiàn.",
+    "en": "The cat is under the table."
+   },
+   {
+    "zh": "火车站在前面。",
+    "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+    "en": "The train station is ahead."
+   },
+   {
+    "zh": "商店在饭店后面。",
+    "pinyin": "Shāngdiàn zài fàndiàn hòumiàn.",
+    "en": "The shop is behind the restaurant."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "东",
+  "traditional": "東",
+  "pinyin": [
+   "dōng"
+  ],
+  "audioKey": "dong1",
+  "meanings": [
+   "east",
+   "thing (in 东西)"
+  ],
+  "hskLevel": 1,
+  "radical": "一",
+  "strokeCount": 5,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "东西",
+    "pinyin": "dōngxi",
+    "meaning": "thing; stuff"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这些东西是谁的？",
+    "pinyin": "Zhèxiē dōngxi shì shéi de?",
+    "en": "Whose things are these?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "西",
+  "traditional": null,
+  "pinyin": [
+   "xī"
+  ],
+  "audioKey": "xi1",
+  "meanings": [
+   "west",
+   "thing (in 东西)"
+  ],
+  "hskLevel": 1,
+  "radical": "西",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "东西",
+    "pinyin": "dōngxi",
+    "meaning": "thing; stuff"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这些东西是谁的？",
+    "pinyin": "Zhèxiē dōngxi shì shéi de?",
+    "en": "Whose things are these?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "气",
+  "traditional": "氣",
+  "pinyin": [
+   "qì"
+  ],
+  "audioKey": "qi4",
+  "meanings": [
+   "air",
+   "weather (in 天气)"
+  ],
+  "hskLevel": 1,
+  "radical": "气",
+  "strokeCount": 4,
+  "topics": [
+   "weather"
+  ],
+  "words": [
+   {
+    "word": "不客气",
+    "pinyin": "bú kèqi",
+    "meaning": "you're welcome"
+   },
+   {
+    "word": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "weather"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is nice today."
+   },
+   {
+    "zh": "不客气。",
+    "pinyin": "Bú kèqi.",
+    "en": "You're welcome."
+   },
+   {
+    "zh": "天气很冷。",
+    "pinyin": "Tiānqì hěn lěng.",
+    "en": "The weather is cold."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "热",
+  "traditional": "熱",
+  "pinyin": [
+   "rè"
+  ],
+  "audioKey": "re4",
+  "meanings": [
+   "hot"
+  ],
+  "hskLevel": 1,
+  "radical": "灬",
+  "strokeCount": 10,
+  "topics": [
+   "weather"
+  ],
+  "words": [
+   {
+    "word": "热",
+    "pinyin": "rè",
+    "meaning": "hot"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "天气太热了。",
+    "pinyin": "Tiānqì tài rè le.",
+    "en": "The weather is too hot."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "冷",
+  "traditional": null,
+  "pinyin": [
+   "lěng"
+  ],
+  "audioKey": "leng3",
+  "meanings": [
+   "cold"
+  ],
+  "hskLevel": 1,
+  "radical": "冫",
+  "strokeCount": 7,
+  "topics": [
+   "weather"
+  ],
+  "words": [
+   {
+    "word": "冷",
+    "pinyin": "lěng",
+    "meaning": "cold"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "天气很冷。",
+    "pinyin": "Tiānqì hěn lěng.",
+    "en": "The weather is cold."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "雨",
+  "traditional": null,
+  "pinyin": [
+   "yǔ"
+  ],
+  "audioKey": "yu3",
+  "meanings": [
+   "rain"
+  ],
+  "hskLevel": 1,
+  "radical": "雨",
+  "strokeCount": 8,
+  "topics": [
+   "weather"
+  ],
+  "words": [
+   {
+    "word": "下雨",
+    "pinyin": "xià yǔ",
+    "meaning": "to rain"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "今天下雨了。",
+    "pinyin": "Jīntiān xià yǔ le.",
+    "en": "It rained today."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "电",
+  "traditional": "電",
+  "pinyin": [
+   "diàn"
+  ],
+  "audioKey": "dian4",
+  "meanings": [
+   "electricity"
+  ],
+  "hskLevel": 1,
+  "radical": "曰",
+  "strokeCount": 5,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "meaning": "to make a phone call"
+   },
+   {
+    "word": "电脑",
+    "pinyin": "diànnǎo",
+    "meaning": "computer"
+   },
+   {
+    "word": "电话",
+    "pinyin": "diànhuà",
+    "meaning": "telephone"
+   },
+   {
+    "word": "电视",
+    "pinyin": "diànshì",
+    "meaning": "television"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我在看电视。",
+    "pinyin": "Wǒ zài kàn diànshì.",
+    "en": "I am watching TV."
+   },
+   {
+    "zh": "他喜欢看电影。",
+    "pinyin": "Tā xǐhuan kàn diànyǐng.",
+    "en": "He likes watching movies."
+   },
+   {
+    "zh": "你的电话是多少？",
+    "pinyin": "Nǐ de diànhuà shì duōshao?",
+    "en": "What is your phone number?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "脑",
+  "traditional": "腦",
+  "pinyin": [
+   "nǎo"
+  ],
+  "audioKey": "nao3",
+  "meanings": [
+   "brain",
+   "computer (in 电脑)"
+  ],
+  "hskLevel": 1,
+  "radical": "⺼",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "电脑",
+    "pinyin": "diànnǎo",
+    "meaning": "computer"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这是我的电脑。",
+    "pinyin": "Zhè shì wǒ de diànnǎo.",
+    "en": "This is my computer."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "视",
+  "traditional": "視",
+  "pinyin": [
+   "shì"
+  ],
+  "audioKey": "shi4",
+  "meanings": [
+   "to look at",
+   "TV (in 电视)"
+  ],
+  "hskLevel": 1,
+  "radical": "见",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "电视",
+    "pinyin": "diànshì",
+    "meaning": "television"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我在看电视。",
+    "pinyin": "Wǒ zài kàn diànshì.",
+    "en": "I am watching TV."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "影",
+  "traditional": null,
+  "pinyin": [
+   "yǐng"
+  ],
+  "audioKey": "ying3",
+  "meanings": [
+   "shadow",
+   "movie (in 电影)"
+  ],
+  "hskLevel": 1,
+  "radical": "彡",
+  "strokeCount": 15,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "电影",
+    "pinyin": "diànyǐng",
+    "meaning": "movie"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他喜欢看电影。",
+    "pinyin": "Tā xǐhuan kàn diànyǐng.",
+    "en": "He likes watching movies."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "话",
+  "traditional": "話",
+  "pinyin": [
+   "huà"
+  ],
+  "audioKey": "hua4",
+  "meanings": [
+   "speech; words",
+   "phone (in 电话)"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "meaning": "to make a phone call"
+   },
+   {
+    "word": "电话",
+    "pinyin": "diànhuà",
+    "meaning": "telephone"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你听，谁在说话？",
+    "pinyin": "Nǐ tīng, shéi zài shuōhuà?",
+    "en": "Listen, who is speaking?"
+   },
+   {
+    "zh": "你的电话是多少？",
+    "pinyin": "Nǐ de diànhuà shì duōshao?",
+    "en": "What is your phone number?"
+   },
+   {
+    "zh": "他在打电话。",
+    "pinyin": "Tā zài dǎ diànhuà.",
+    "en": "He is making a phone call."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "桌",
+  "traditional": null,
+  "pinyin": [
+   "zhuō"
+  ],
+  "audioKey": "zhuo1",
+  "meanings": [
+   "table; desk"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "桌子",
+    "pinyin": "zhuōzi",
+    "meaning": "table; desk"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "猫在桌子下面。",
+    "pinyin": "Māo zài zhuōzi xiàmiàn.",
+    "en": "The cat is under the table."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "椅",
+  "traditional": null,
+  "pinyin": [
+   "yǐ"
+  ],
+  "audioKey": "yi3",
+  "meanings": [
+   "chair (in 椅子)"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 12,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "椅子",
+    "pinyin": "yǐzi",
+    "meaning": "chair"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "椅子上有一个杯子。",
+    "pinyin": "Yǐzi shang yǒu yí ge bēizi.",
+    "en": "There is a cup on the chair."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "衣",
+  "traditional": null,
+  "pinyin": [
+   "yī"
+  ],
+  "audioKey": "yi1",
+  "meanings": [
+   "clothes"
+  ],
+  "hskLevel": 1,
+  "radical": "衣",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "clothes"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她的衣服很漂亮。",
+    "pinyin": "Tā de yīfu hěn piàoliang.",
+    "en": "Her clothes are very pretty."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "服",
+  "traditional": null,
+  "pinyin": [
+   "fú"
+  ],
+  "audioKey": "fu2",
+  "meanings": [
+   "clothes (in 衣服)"
+  ],
+  "hskLevel": 1,
+  "radical": "月",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "clothes"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她的衣服很漂亮。",
+    "pinyin": "Tā de yīfu hěn piàoliang.",
+    "en": "Her clothes are very pretty."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "猫",
+  "traditional": "貓",
+  "pinyin": [
+   "māo"
+  ],
+  "audioKey": "mao1",
+  "meanings": [
+   "cat"
+  ],
+  "hskLevel": 1,
+  "radical": "犭",
+  "strokeCount": 11,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "猫",
+    "pinyin": "māo",
+    "meaning": "cat"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "猫在桌子下面。",
+    "pinyin": "Māo zài zhuōzi xiàmiàn.",
+    "en": "The cat is under the table."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "狗",
+  "traditional": null,
+  "pinyin": [
+   "gǒu"
+  ],
+  "audioKey": "gou3",
+  "meanings": [
+   "dog"
+  ],
+  "hskLevel": 1,
+  "radical": "犭",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "狗",
+    "pinyin": "gǒu",
+    "meaning": "dog"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "狗在家里。",
+    "pinyin": "Gǒu zài jiā li.",
+    "en": "The dog is at home."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "是",
+  "traditional": null,
+  "pinyin": [
+   "shì"
+  ],
+  "audioKey": "shi4",
+  "meanings": [
+   "to be"
+  ],
+  "hskLevel": 1,
+  "radical": "日",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "是",
+    "pinyin": "shì",
+    "meaning": "to be"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "en": "I am a student."
+   },
+   {
+    "zh": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "en": "He is my friend."
+   },
+   {
+    "zh": "这是什么？",
+    "pinyin": "Zhè shì shénme?",
+    "en": "What is this?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "有",
+  "traditional": null,
+  "pinyin": [
+   "yǒu"
+  ],
+  "audioKey": "you3",
+  "meanings": [
+   "to have",
+   "there is"
+  ],
+  "hskLevel": 1,
+  "radical": "月",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "没有",
+    "pinyin": "méiyǒu",
+    "meaning": "to not have"
+   },
+   {
+    "word": "有",
+    "pinyin": "yǒu",
+    "meaning": "to have"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她有一个女儿。",
+    "pinyin": "Tā yǒu yí ge nǚ'ér.",
+    "en": "She has a daughter."
+   },
+   {
+    "zh": "他有一个儿子。",
+    "pinyin": "Tā yǒu yí ge érzi.",
+    "en": "He has a son."
+   },
+   {
+    "zh": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "en": "I have a book."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "没",
+  "traditional": "沒",
+  "pinyin": [
+   "méi"
+  ],
+  "audioKey": "mei2",
+  "meanings": [
+   "not (to not have)"
+  ],
+  "hskLevel": 1,
+  "radical": "氵",
+  "strokeCount": 7,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "没关系",
+    "pinyin": "méi guānxi",
+    "meaning": "it doesn't matter"
+   },
+   {
+    "word": "没有",
+    "pinyin": "méiyǒu",
+    "meaning": "to not have"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "没关系。",
+    "pinyin": "Méi guānxi.",
+    "en": "It's okay."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "不",
+  "traditional": null,
+  "pinyin": [
+   "bù"
+  ],
+  "audioKey": "bu4",
+  "meanings": [
+   "no; not"
+  ],
+  "hskLevel": 1,
+  "radical": "一",
+  "strokeCount": 4,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "不",
+    "pinyin": "bù",
+    "meaning": "no; not"
+   },
+   {
+    "word": "不客气",
+    "pinyin": "bú kèqi",
+    "meaning": "you're welcome"
+   },
+   {
+    "word": "对不起",
+    "pinyin": "duìbuqǐ",
+    "meaning": "sorry"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我不吃米饭。",
+    "pinyin": "Wǒ bù chī mǐfàn.",
+    "en": "I don't eat rice."
+   },
+   {
+    "zh": "不客气。",
+    "pinyin": "Bú kèqi.",
+    "en": "You're welcome."
+   },
+   {
+    "zh": "对不起。",
+    "pinyin": "Duìbuqǐ.",
+    "en": "Sorry."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "好",
+  "traditional": null,
+  "pinyin": [
+   "hǎo",
+   "hào"
+  ],
+  "audioKey": "hao3",
+  "meanings": [
+   "good",
+   "well"
+  ],
+  "hskLevel": 1,
+  "radical": "女",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "好",
+    "pinyin": "hǎo",
+    "meaning": "good"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "en": "How are you?"
+   },
+   {
+    "zh": "我很好，你呢？",
+    "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm fine, and you?"
+   },
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is nice today."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "大",
+  "traditional": null,
+  "pinyin": [
+   "dà"
+  ],
+  "audioKey": "da4",
+  "meanings": [
+   "big"
+  ],
+  "hskLevel": 1,
+  "radical": "大",
+  "strokeCount": 3,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "大",
+    "pinyin": "dà",
+    "meaning": "big"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "中国很大。",
+    "pinyin": "Zhōngguó hěn dà.",
+    "en": "China is very big."
+   }
+  ],
+  "similar": [
+   "太",
+   "天"
+  ]
+ },
+ {
+  "character": "爱",
+  "traditional": "愛",
+  "pinyin": [
+   "ài"
+  ],
+  "audioKey": "ai4",
+  "meanings": [
+   "to love",
+   "love"
+  ],
+  "hskLevel": 1,
+  "radical": "爫",
+  "strokeCount": 10,
+  "topics": [
+   "everyday",
+   "family"
+  ],
+  "words": [
+   {
+    "word": "爱",
+    "pinyin": "ài",
+    "meaning": "to love"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我爱你。",
+    "pinyin": "Wǒ ài nǐ.",
+    "en": "I love you."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "想",
+  "traditional": null,
+  "pinyin": [
+   "xiǎng"
+  ],
+  "audioKey": "xiang3",
+  "meanings": [
+   "to want to",
+   "to think; to miss"
+  ],
+  "hskLevel": 1,
+  "radical": "心",
+  "strokeCount": 13,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "想",
+    "pinyin": "xiǎng",
+    "meaning": "to want to; to think"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我想买苹果。",
+    "pinyin": "Wǒ xiǎng mǎi píngguǒ.",
+    "en": "I want to buy apples."
+   },
+   {
+    "zh": "我想睡觉。",
+    "pinyin": "Wǒ xiǎng shuìjiào.",
+    "en": "I want to sleep."
+   },
+   {
+    "zh": "你想吃什么菜？",
+    "pinyin": "Nǐ xiǎng chī shénme cài?",
+    "en": "What dish do you want to eat?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "要",
+  "traditional": null,
+  "pinyin": [
+   "yào"
+  ],
+  "audioKey": "yao4",
+  "meanings": [
+   "to want",
+   "will (future)"
+  ],
+  "hskLevel": 1,
+  "radical": "覀",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "要",
+    "pinyin": "yào",
+    "meaning": "to want; will"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我要一杯水。",
+    "pinyin": "Wǒ yào yì bēi shuǐ.",
+    "en": "I want a glass of water."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "会",
+  "traditional": "會",
+  "pinyin": [
+   "huì"
+  ],
+  "audioKey": "hui4",
+  "meanings": [
+   "can (know how to)",
+   "meeting"
+  ],
+  "hskLevel": 1,
+  "radical": "人",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "会",
+    "pinyin": "huì",
+    "meaning": "can; to know how to"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我会说汉语。",
+    "pinyin": "Wǒ huì shuō Hànyǔ.",
+    "en": "I can speak Chinese."
+   },
+   {
+    "zh": "我们上午九点开会。",
+    "pinyin": "Wǒmen shàngwǔ jiǔ diǎn kāihuì.",
+    "en": "We have a meeting at nine in the morning."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "能",
+  "traditional": null,
+  "pinyin": [
+   "néng"
+  ],
+  "audioKey": "neng2",
+  "meanings": [
+   "can; to be able to"
+  ],
+  "hskLevel": 1,
+  "radical": "⺼",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "能",
+    "pinyin": "néng",
+    "meaning": "can; to be able to"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你能来吗？",
+    "pinyin": "Nǐ néng lái ma?",
+    "en": "Can you come?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "买",
+  "traditional": "買",
+  "pinyin": [
+   "mǎi"
+  ],
+  "audioKey": "mai3",
+  "meanings": [
+   "to buy"
+  ],
+  "hskLevel": 1,
+  "radical": "大",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "买",
+    "pinyin": "mǎi",
+    "meaning": "to buy"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我想买苹果。",
+    "pinyin": "Wǒ xiǎng mǎi píngguǒ.",
+    "en": "I want to buy apples."
+   },
+   {
+    "zh": "我买了五个苹果。",
+    "pinyin": "Wǒ mǎi le wǔ ge píngguǒ.",
+    "en": "I bought five apples."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "做",
+  "traditional": null,
+  "pinyin": [
+   "zuò"
+  ],
+  "audioKey": "zuo4",
+  "meanings": [
+   "to do; to make"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 11,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "做",
+    "pinyin": "zuò",
+    "meaning": "to do; to make"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "妈妈在做饭。",
+    "pinyin": "Māma zài zuò fàn.",
+    "en": "Mom is cooking."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "工",
+  "traditional": null,
+  "pinyin": [
+   "gōng"
+  ],
+  "audioKey": "gong1",
+  "meanings": [
+   "work"
+  ],
+  "hskLevel": 1,
+  "radical": "工",
+  "strokeCount": 3,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": "work; job"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "He works at a hospital."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "作",
+  "traditional": null,
+  "pinyin": [
+   "zuò"
+  ],
+  "audioKey": "zuo4",
+  "meanings": [
+   "to do; work (in 工作)"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 7,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": "work; job"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "He works at a hospital."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "打",
+  "traditional": null,
+  "pinyin": [
+   "dǎ"
+  ],
+  "audioKey": "da3",
+  "meanings": [
+   "to hit",
+   "to make (a phone call)"
+  ],
+  "hskLevel": 1,
+  "radical": "扌",
+  "strokeCount": 5,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "meaning": "to make a phone call"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他在打电话。",
+    "pinyin": "Tā zài dǎ diànhuà.",
+    "en": "He is making a phone call."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "叫",
+  "traditional": null,
+  "pinyin": [
+   "jiào"
+  ],
+  "audioKey": "jiao4",
+  "meanings": [
+   "to be called",
+   "to call"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 5,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "叫",
+    "pinyin": "jiào",
+    "meaning": "to be called"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "认",
+  "traditional": "認",
+  "pinyin": [
+   "rèn"
+  ],
+  "audioKey": "ren4",
+  "meanings": [
+   "to recognize (in 认识)"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 4,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "认识",
+    "pinyin": "rènshi",
+    "meaning": "to know (someone)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我认识她。",
+    "pinyin": "Wǒ rènshi tā.",
+    "en": "I know her."
+   },
+   {
+    "zh": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "en": "Nice to meet you."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "识",
+  "traditional": "識",
+  "pinyin": [
+   "shí"
+  ],
+  "audioKey": "shi2",
+  "meanings": [
+   "to know (in 认识)"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 7,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "认识",
+    "pinyin": "rènshi",
+    "meaning": "to know (someone)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我认识她。",
+    "pinyin": "Wǒ rènshi tā.",
+    "en": "I know her."
+   },
+   {
+    "zh": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "en": "Nice to meet you."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "见",
+  "traditional": "見",
+  "pinyin": [
+   "jiàn"
+  ],
+  "audioKey": "jian4",
+  "meanings": [
+   "to see; to meet"
+  ],
+  "hskLevel": 1,
+  "radical": "见",
+  "strokeCount": 4,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "看见",
+    "pinyin": "kànjiàn",
+    "meaning": "to see"
+   },
+   {
+    "word": "再见",
+    "pinyin": "zàijiàn",
+    "meaning": "goodbye"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我们明天见。",
+    "pinyin": "Wǒmen míngtiān jiàn.",
+    "en": "See you tomorrow."
+   },
+   {
+    "zh": "再见！",
+    "pinyin": "Zàijiàn!",
+    "en": "Goodbye!"
+   },
+   {
+    "zh": "五分钟后见。",
+    "pinyin": "Wǔ fēnzhōng hòu jiàn.",
+    "en": "See you in five minutes."
+   }
+  ],
+  "similar": [
+   "现"
+  ]
+ },
+ {
+  "character": "睡",
+  "traditional": null,
+  "pinyin": [
+   "shuì"
+  ],
+  "audioKey": "shui4",
+  "meanings": [
+   "to sleep"
+  ],
+  "hskLevel": 1,
+  "radical": "目",
+  "strokeCount": 13,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "睡觉",
+    "pinyin": "shuìjiào",
+    "meaning": "to sleep"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我想睡觉。",
+    "pinyin": "Wǒ xiǎng shuìjiào.",
+    "en": "I want to sleep."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "觉",
+  "traditional": "覺",
+  "pinyin": [
+   "jiào",
+   "jué"
+  ],
+  "audioKey": "jiao4",
+  "meanings": [
+   "sleep (in 睡觉)",
+   "to feel (jué)"
+  ],
+  "hskLevel": 1,
+  "radical": "见",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "睡觉",
+    "pinyin": "shuìjiào",
+    "meaning": "to sleep"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我想睡觉。",
+    "pinyin": "Wǒ xiǎng shuìjiào.",
+    "en": "I want to sleep."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "喜",
+  "traditional": null,
+  "pinyin": [
+   "xǐ"
+  ],
+  "audioKey": "xi3",
+  "meanings": [
+   "to like (in 喜欢)",
+   "joy"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 12,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "喜欢",
+    "pinyin": "xǐhuan",
+    "meaning": "to like"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuan hē chá.",
+    "en": "I like drinking tea."
+   },
+   {
+    "zh": "他喜欢看电影。",
+    "pinyin": "Tā xǐhuan kàn diànyǐng.",
+    "en": "He likes watching movies."
+   },
+   {
+    "zh": "我喜欢吃水果。",
+    "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "en": "I like eating fruit."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "欢",
+  "traditional": "歡",
+  "pinyin": [
+   "huān"
+  ],
+  "audioKey": "huan1",
+  "meanings": [
+   "joyful (in 喜欢)"
+  ],
+  "hskLevel": 1,
+  "radical": "欠",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "喜欢",
+    "pinyin": "xǐhuan",
+    "meaning": "to like"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuan hē chá.",
+    "en": "I like drinking tea."
+   },
+   {
+    "zh": "他喜欢看电影。",
+    "pinyin": "Tā xǐhuan kàn diànyǐng.",
+    "en": "He likes watching movies."
+   },
+   {
+    "zh": "我喜欢吃水果。",
+    "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "en": "I like eating fruit."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "高",
+  "traditional": null,
+  "pinyin": [
+   "gāo"
+  ],
+  "audioKey": "gao1",
+  "meanings": [
+   "tall; high",
+   "happy (in 高兴)"
+  ],
+  "hskLevel": 1,
+  "radical": "高",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "高兴",
+    "pinyin": "gāoxìng",
+    "meaning": "happy; glad"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "en": "Nice to meet you."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "兴",
+  "traditional": "興",
+  "pinyin": [
+   "xìng",
+   "xīng"
+  ],
+  "audioKey": "xing4",
+  "meanings": [
+   "excitement; happy (in 高兴)"
+  ],
+  "hskLevel": 1,
+  "radical": "八",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "高兴",
+    "pinyin": "gāoxìng",
+    "meaning": "happy; glad"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "en": "Nice to meet you."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "漂",
+  "traditional": null,
+  "pinyin": [
+   "piào",
+   "piāo"
+  ],
+  "audioKey": "piao4",
+  "meanings": [
+   "pretty (in 漂亮)"
+  ],
+  "hskLevel": 1,
+  "radical": "氵",
+  "strokeCount": 14,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "漂亮",
+    "pinyin": "piàoliang",
+    "meaning": "pretty; beautiful"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她很漂亮。",
+    "pinyin": "Tā hěn piàoliang.",
+    "en": "She is very pretty."
+   },
+   {
+    "zh": "她的衣服很漂亮。",
+    "pinyin": "Tā de yīfu hěn piàoliang.",
+    "en": "Her clothes are very pretty."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "亮",
+  "traditional": null,
+  "pinyin": [
+   "liàng"
+  ],
+  "audioKey": "liang4",
+  "meanings": [
+   "bright",
+   "pretty (in 漂亮)"
+  ],
+  "hskLevel": 1,
+  "radical": "亠",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "漂亮",
+    "pinyin": "piàoliang",
+    "meaning": "pretty; beautiful"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她很漂亮。",
+    "pinyin": "Tā hěn piàoliang.",
+    "en": "She is very pretty."
+   },
+   {
+    "zh": "她的衣服很漂亮。",
+    "pinyin": "Tā de yīfu hěn piàoliang.",
+    "en": "Her clothes are very pretty."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "很",
+  "traditional": null,
+  "pinyin": [
+   "hěn"
+  ],
+  "audioKey": "hen3",
+  "meanings": [
+   "very"
+  ],
+  "hskLevel": 1,
+  "radical": "彳",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "很",
+    "pinyin": "hěn",
+    "meaning": "very"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我很好，你呢？",
+    "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm fine, and you?"
+   },
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is nice today."
+   },
+   {
+    "zh": "天气很冷。",
+    "pinyin": "Tiānqì hěn lěng.",
+    "en": "The weather is cold."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "太",
+  "traditional": null,
+  "pinyin": [
+   "tài"
+  ],
+  "audioKey": "tai4",
+  "meanings": [
+   "too (excessively)"
+  ],
+  "hskLevel": 1,
+  "radical": "大",
+  "strokeCount": 4,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "太",
+    "pinyin": "tài",
+    "meaning": "too (excessively)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "太好了！",
+    "pinyin": "Tài hǎo le!",
+    "en": "Great!"
+   },
+   {
+    "zh": "天气太热了。",
+    "pinyin": "Tiānqì tài rè le.",
+    "en": "The weather is too hot."
+   }
+  ],
+  "similar": [
+   "大",
+   "天"
+  ]
+ },
+ {
+  "character": "都",
+  "traditional": null,
+  "pinyin": [
+   "dōu",
+   "dū"
+  ],
+  "audioKey": "dou1",
+  "meanings": [
+   "all; both"
+  ],
+  "hskLevel": 1,
+  "radical": "阝",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "都",
+    "pinyin": "dōu",
+    "meaning": "all; both"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他和我都是学生。",
+    "pinyin": "Tā hé wǒ dōu shì xuésheng.",
+    "en": "He and I are both students."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "和",
+  "traditional": null,
+  "pinyin": [
+   "hé"
+  ],
+  "audioKey": "he2",
+  "meanings": [
+   "and",
+   "with"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "和",
+    "pinyin": "hé",
+    "meaning": "and"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他和我都是学生。",
+    "pinyin": "Tā hé wǒ dōu shì xuésheng.",
+    "en": "He and I are both students."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "请",
+  "traditional": "請",
+  "pinyin": [
+   "qǐng"
+  ],
+  "audioKey": "qing3",
+  "meanings": [
+   "please",
+   "to invite"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "请",
+    "pinyin": "qǐng",
+    "meaning": "please; to invite"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "请坐。",
+    "pinyin": "Qǐng zuò.",
+    "en": "Please sit down."
+   },
+   {
+    "zh": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "en": "Please write your name."
+   },
+   {
+    "zh": "小姐，请喝茶。",
+    "pinyin": "Xiǎojiě, qǐng hē chá.",
+    "en": "Miss, please have some tea."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "谢",
+  "traditional": "謝",
+  "pinyin": [
+   "xiè"
+  ],
+  "audioKey": "xie4",
+  "meanings": [
+   "to thank"
+  ],
+  "hskLevel": 1,
+  "radical": "讠",
+  "strokeCount": 12,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "谢谢",
+    "pinyin": "xièxie",
+    "meaning": "thanks"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "谢谢你！",
+    "pinyin": "Xièxie nǐ!",
+    "en": "Thank you!"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "对",
+  "traditional": "對",
+  "pinyin": [
+   "duì"
+  ],
+  "audioKey": "dui4",
+  "meanings": [
+   "correct",
+   "toward (in 对不起)"
+  ],
+  "hskLevel": 1,
+  "radical": "寸",
+  "strokeCount": 5,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "对不起",
+    "pinyin": "duìbuqǐ",
+    "meaning": "sorry"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "对不起。",
+    "pinyin": "Duìbuqǐ.",
+    "en": "Sorry."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "起",
+  "traditional": null,
+  "pinyin": [
+   "qǐ"
+  ],
+  "audioKey": "qi3",
+  "meanings": [
+   "to rise; to get up"
+  ],
+  "hskLevel": 1,
+  "radical": "走",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "对不起",
+    "pinyin": "duìbuqǐ",
+    "meaning": "sorry"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "对不起。",
+    "pinyin": "Duìbuqǐ.",
+    "en": "Sorry."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "客",
+  "traditional": null,
+  "pinyin": [
+   "kè"
+  ],
+  "audioKey": "ke4",
+  "meanings": [
+   "guest",
+   "polite (in 客气)"
+  ],
+  "hskLevel": 1,
+  "radical": "宀",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "不客气",
+    "pinyin": "bú kèqi",
+    "meaning": "you're welcome"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "不客气。",
+    "pinyin": "Bú kèqi.",
+    "en": "You're welcome."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "关",
+  "traditional": "關",
+  "pinyin": [
+   "guān"
+  ],
+  "audioKey": "guan1",
+  "meanings": [
+   "to close",
+   "relation (in 关系)"
+  ],
+  "hskLevel": 1,
+  "radical": "丷",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "没关系",
+    "pinyin": "méi guānxi",
+    "meaning": "it doesn't matter"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "没关系。",
+    "pinyin": "Méi guānxi.",
+    "en": "It's okay."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "系",
+  "traditional": null,
+  "pinyin": [
+   "xì",
+   "jì"
+  ],
+  "audioKey": "xi4",
+  "meanings": [
+   "system; relation (in 关系)"
+  ],
+  "hskLevel": 1,
+  "radical": "糸",
+  "strokeCount": 7,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "没关系",
+    "pinyin": "méi guānxi",
+    "meaning": "it doesn't matter"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "没关系。",
+    "pinyin": "Méi guānxi.",
+    "en": "It's okay."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "再",
+  "traditional": null,
+  "pinyin": [
+   "zài"
+  ],
+  "audioKey": "zai4",
+  "meanings": [
+   "again",
+   "goodbye (in 再见)"
+  ],
+  "hskLevel": 1,
+  "radical": "冂",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "再见",
+    "pinyin": "zàijiàn",
+    "meaning": "goodbye"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "再见！",
+    "pinyin": "Zàijiàn!",
+    "en": "Goodbye!"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "这",
+  "traditional": "這",
+  "pinyin": [
+   "zhè"
+  ],
+  "audioKey": "zhe4",
+  "meanings": [
+   "this"
+  ],
+  "hskLevel": 1,
+  "radical": "辶",
+  "strokeCount": 7,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "这",
+    "pinyin": "zhè",
+    "meaning": "this"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这是什么？",
+    "pinyin": "Zhè shì shénme?",
+    "en": "What is this?"
+   },
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much is this?"
+   },
+   {
+    "zh": "这些东西是谁的？",
+    "pinyin": "Zhèxiē dōngxi shì shéi de?",
+    "en": "Whose things are these?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "那",
+  "traditional": null,
+  "pinyin": [
+   "nà"
+  ],
+  "audioKey": "na4",
+  "meanings": [
+   "that"
+  ],
+  "hskLevel": 1,
+  "radical": "阝",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "那",
+    "pinyin": "nà",
+    "meaning": "that"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "那是我的书。",
+    "pinyin": "Nà shì wǒ de shū.",
+    "en": "That is my book."
+   }
+  ],
+  "similar": [
+   "哪"
+  ]
+ },
+ {
+  "character": "哪",
+  "traditional": null,
+  "pinyin": [
+   "nǎ"
+  ],
+  "audioKey": "na3",
+  "meanings": [
+   "which",
+   "where (in 哪儿)"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "哪",
+    "pinyin": "nǎ",
+    "meaning": "which"
+   },
+   {
+    "word": "哪儿",
+    "pinyin": "nǎr",
+    "meaning": "where"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你住在哪儿？",
+    "pinyin": "Nǐ zhù zài nǎr?",
+    "en": "Where do you live?"
+   }
+  ],
+  "similar": [
+   "那"
+  ]
+ },
+ {
+  "character": "什",
+  "traditional": null,
+  "pinyin": [
+   "shén",
+   "shí"
+  ],
+  "audioKey": "shen2",
+  "meanings": [
+   "what (in 什么)"
+  ],
+  "hskLevel": 1,
+  "radical": "亻",
+  "strokeCount": 4,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "什么",
+    "pinyin": "shénme",
+    "meaning": "what"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这是什么？",
+    "pinyin": "Zhè shì shénme?",
+    "en": "What is this?"
+   },
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "你想吃什么菜？",
+    "pinyin": "Nǐ xiǎng chī shénme cài?",
+    "en": "What dish do you want to eat?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "么",
+  "traditional": "麼",
+  "pinyin": [
+   "me"
+  ],
+  "audioKey": "me5",
+  "meanings": [
+   "(suffix in 什么 / 怎么)"
+  ],
+  "hskLevel": 1,
+  "radical": "丿",
+  "strokeCount": 3,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "什么",
+    "pinyin": "shénme",
+    "meaning": "what"
+   },
+   {
+    "word": "怎么",
+    "pinyin": "zěnme",
+    "meaning": "how"
+   },
+   {
+    "word": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "how about; how is it"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这是什么？",
+    "pinyin": "Zhè shì shénme?",
+    "en": "What is this?"
+   },
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "你想吃什么菜？",
+    "pinyin": "Nǐ xiǎng chī shénme cài?",
+    "en": "What dish do you want to eat?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "怎",
+  "traditional": null,
+  "pinyin": [
+   "zěn"
+  ],
+  "audioKey": "zen3",
+  "meanings": [
+   "how (in 怎么)"
+  ],
+  "hskLevel": 1,
+  "radical": "心",
+  "strokeCount": 9,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "怎么",
+    "pinyin": "zěnme",
+    "meaning": "how"
+   },
+   {
+    "word": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "how about; how is it"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "en": "How do you write this character?"
+   },
+   {
+    "zh": "明天去怎么样？",
+    "pinyin": "Míngtiān qù zěnmeyàng?",
+    "en": "How about going tomorrow?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "样",
+  "traditional": "樣",
+  "pinyin": [
+   "yàng"
+  ],
+  "audioKey": "yang4",
+  "meanings": [
+   "manner; appearance (in 怎么样)"
+  ],
+  "hskLevel": 1,
+  "radical": "木",
+  "strokeCount": 10,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "how about; how is it"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "明天去怎么样？",
+    "pinyin": "Míngtiān qù zěnmeyàng?",
+    "en": "How about going tomorrow?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "些",
+  "traditional": null,
+  "pinyin": [
+   "xiē"
+  ],
+  "audioKey": "xie1",
+  "meanings": [
+   "some; a few"
+  ],
+  "hskLevel": 1,
+  "radical": "二",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "些",
+    "pinyin": "xiē",
+    "meaning": "some"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "这些东西是谁的？",
+    "pinyin": "Zhèxiē dōngxi shì shéi de?",
+    "en": "Whose things are these?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "的",
+  "traditional": null,
+  "pinyin": [
+   "de",
+   "dì"
+  ],
+  "audioKey": "de5",
+  "meanings": [
+   "(possessive particle)"
+  ],
+  "hskLevel": 1,
+  "radical": "白",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "的",
+    "pinyin": "de",
+    "meaning": "(possessive particle)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "en": "He is my friend."
+   },
+   {
+    "zh": "那是我的书。",
+    "pinyin": "Nà shì wǒ de shū.",
+    "en": "That is my book."
+   },
+   {
+    "zh": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "en": "Please write your name."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "了",
+  "traditional": null,
+  "pinyin": [
+   "le",
+   "liǎo"
+  ],
+  "audioKey": "le5",
+  "meanings": [
+   "(completed-action particle)"
+  ],
+  "hskLevel": 1,
+  "radical": "亅",
+  "strokeCount": 2,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "了",
+    "pinyin": "le",
+    "meaning": "(completed-action particle)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "太好了！",
+    "pinyin": "Tài hǎo le!",
+    "en": "Great!"
+   },
+   {
+    "zh": "今天下雨了。",
+    "pinyin": "Jīntiān xià yǔ le.",
+    "en": "It rained today."
+   },
+   {
+    "zh": "天气太热了。",
+    "pinyin": "Tiānqì tài rè le.",
+    "en": "The weather is too hot."
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "吗",
+  "traditional": "嗎",
+  "pinyin": [
+   "ma"
+  ],
+  "audioKey": "ma5",
+  "meanings": [
+   "(yes/no question particle)"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 6,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "吗",
+    "pinyin": "ma",
+    "meaning": "(question particle)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "en": "How are you?"
+   },
+   {
+    "zh": "你能来吗？",
+    "pinyin": "Nǐ néng lái ma?",
+    "en": "Can you come?"
+   },
+   {
+    "zh": "老师喜欢喝咖啡吗？",
+    "pinyin": "Lǎoshī xǐhuan hē kāfēi ma?",
+    "en": "Does the teacher like coffee?"
+   }
+  ],
+  "similar": [
+   "妈"
+  ]
+ },
+ {
+  "character": "呢",
+  "traditional": null,
+  "pinyin": [
+   "ne"
+  ],
+  "audioKey": "ne5",
+  "meanings": [
+   "(question particle: and ...?)"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 8,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "呢",
+    "pinyin": "ne",
+    "meaning": "(question particle)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我很好，你呢？",
+    "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm fine, and you?"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "喂",
+  "traditional": null,
+  "pinyin": [
+   "wéi",
+   "wèi"
+  ],
+  "audioKey": "wei2",
+  "meanings": [
+   "hello (on the phone)"
+  ],
+  "hskLevel": 1,
+  "radical": "口",
+  "strokeCount": 12,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "喂",
+    "pinyin": "wéi",
+    "meaning": "hello (on the phone)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "喂，你好！",
+    "pinyin": "Wéi, nǐ hǎo!",
+    "en": "Hello (on the phone)!"
+   }
+  ],
+  "similar": []
+ },
+ {
+  "character": "个",
+  "traditional": "個",
+  "pinyin": [
+   "gè"
+  ],
+  "audioKey": "ge4",
+  "meanings": [
+   "(general measure word)"
+  ],
+  "hskLevel": 1,
+  "radical": "丨",
+  "strokeCount": 3,
+  "topics": [
+   "everyday"
+  ],
+  "words": [
+   {
+    "word": "个",
+    "pinyin": "gè",
+    "meaning": "(general measure word)"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "她有一个女儿。",
+    "pinyin": "Tā yǒu yí ge nǚ'ér.",
+    "en": "She has a daughter."
+   },
+   {
+    "zh": "他有一个儿子。",
+    "pinyin": "Tā yǒu yí ge érzi.",
+    "en": "He has a son."
+   },
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much is this?"
+   }
+  ],
+  "similar": [
+   "今"
+  ]
+ },
+ {
+  "character": "岁",
+  "traditional": "歲",
+  "pinyin": [
+   "suì"
+  ],
+  "audioKey": "sui4",
+  "meanings": [
+   "years old"
+  ],
+  "hskLevel": 1,
+  "radical": "山",
+  "strokeCount": 6,
+  "topics": [
+   "everyday",
+   "numbers"
+  ],
+  "words": [
+   {
+    "word": "岁",
+    "pinyin": "suì",
+    "meaning": "years old"
+   }
+  ],
+  "sentences": [
+   {
+    "zh": "我今年二十岁。",
+    "pinyin": "Wǒ jīnnián èrshí suì.",
+    "en": "I am twenty years old."
+   },
+   {
+    "zh": "你几岁？",
+    "pinyin": "Nǐ jǐ suì?",
+    "en": "How old are you?"
+   }
+  ],
+  "similar": []
+ }
+]
