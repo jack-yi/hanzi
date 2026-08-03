@@ -25,6 +25,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full antialiased">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2886878660645711"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body className="min-h-full flex flex-col">
         <header className="border-b border-border bg-card/70 backdrop-blur sticky top-0 z-40">
           <div className="mx-auto max-w-5xl px-4 py-3 flex items-center justify-between gap-4">
@@ -45,6 +52,8 @@ export default function RootLayout({
             </p>
             <nav className="flex gap-4">
               <Link href="/about/" className="hover:text-accent">About</Link>
+              <Link href="/guides/" className="hover:text-accent">Guides</Link>
+              <Link href="/contact/" className="hover:text-accent">Contact</Link>
               <Link href="/privacy/" className="hover:text-accent">Privacy</Link>
               <Link href="/credits/" className="hover:text-accent">Credits</Link>
             </nav>

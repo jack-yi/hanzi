@@ -1,9 +1,11 @@
 import Link from "next/link";
 import { SearchBox } from "@/components/SearchBox";
 import { CharacterCard } from "@/components/CharacterCard";
+import { JsonLd } from "@/components/JsonLd";
 import { getAllCharacters } from "@/lib/characters";
 import { TOPICS } from "@/lib/topics";
-import { SITE_NAME } from "@/lib/site";
+import { GUIDES } from "@/lib/guides";
+import { SITE_DESCRIPTION, SITE_NAME, SITE_URL } from "@/lib/site";
 
 const FEATURED = ["爱", "学", "家", "好", "中", "水", "人", "天", "月", "火", "口", "山"];
 
@@ -14,6 +16,16 @@ export default function Home() {
 
   return (
     <div className="flex flex-col gap-14">
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: SITE_NAME,
+          url: SITE_URL,
+          description: SITE_DESCRIPTION,
+          inLanguage: "en",
+        }}
+      />
       {/* Hero */}
       <section className="text-center pt-6">
         <p className="hanzi text-6xl sm:text-7xl text-accent mb-4" aria-hidden>
@@ -82,6 +94,30 @@ export default function Home() {
                 </div>
               </div>
               <p className="mt-3 text-sm text-muted">{t.description}</p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* Guides */}
+      <section>
+        <div className="flex items-baseline justify-between mb-4">
+          <h2 className="text-xl font-semibold">Guides</h2>
+          <Link href="/guides/" className="text-sm text-accent hover:underline">
+            All guides →
+          </Link>
+        </div>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {GUIDES.slice(0, 4).map((g) => (
+            <Link
+              key={g.slug}
+              href={`/guides/${g.slug}/`}
+              className="rounded-2xl border border-border bg-card p-5 hover:border-accent hover:shadow-sm transition-all group"
+            >
+              <p className="text-2xl" aria-hidden>{g.emoji}</p>
+              <h3 className="mt-2 text-sm font-semibold group-hover:text-accent transition-colors">
+                {g.title}
+              </h3>
             </Link>
           ))}
         </div>

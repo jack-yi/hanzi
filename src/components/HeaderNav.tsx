@@ -7,6 +7,7 @@ import { useProgressStore, useHasHydrated } from "@/store/progress";
 const LINKS = [
   { href: "/characters/", label: "Characters" },
   { href: "/learn/", label: "Learn" },
+  { href: "/guides/", label: "Guides" },
   { href: "/review/", label: "Review" },
   { href: "/progress/", label: "Progress" },
 ];

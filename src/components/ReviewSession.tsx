@@ -19,8 +19,9 @@ export function ReviewSession() {
   const [revealed, setRevealed] = useState(false);
   const [doneCount, setDoneCount] = useState(0);
 
+  // "Due now" is frozen at mount so render stays pure; fine for a session page.
+  const [now] = useState(() => Date.now());
   const dueNow = useMemo(() => {
-    const now = Date.now();
     return Object.entries(progress)
       .filter(
         ([, p]) =>
@@ -30,7 +31,7 @@ export function ReviewSession() {
       )
       .map(([char]) => char)
       .filter((char) => getCharacter(char));
-  }, [progress]);
+  }, [progress, now]);
 
   const learningPool = useMemo(
     () =>

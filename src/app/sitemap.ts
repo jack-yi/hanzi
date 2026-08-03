@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllCharacters } from "@/lib/characters";
 import { TOPICS } from "@/lib/topics";
+import { GUIDES } from "@/lib/guides";
 import { SITE_URL } from "@/lib/site";
 
 export const dynamic = "force-static";
@@ -10,9 +11,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "",
     "/characters/",
     "/learn/",
+    "/guides/",
     "/review/",
     "/progress/",
     "/about/",
+    "/contact/",
     "/privacy/",
     "/credits/",
   ].map((path) => ({
@@ -27,11 +30,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.7,
   }));
 
+  const guidePages = GUIDES.map((g) => ({
+    url: `${SITE_URL}/guides/${g.slug}/`,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
   const characterPages = getAllCharacters().map((c) => ({
     url: `${SITE_URL}/character/${encodeURIComponent(c.character)}/`,
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }));
 
-  return [...staticPages, ...topicPages, ...characterPages];
+  return [...staticPages, ...topicPages, ...guidePages, ...characterPages];
 }

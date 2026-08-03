@@ -38,13 +38,14 @@ export function ProgressDashboard() {
   const fileRef = useRef<HTMLInputElement>(null);
   const [message, setMessage] = useState<string | null>(null);
   const [confirmClear, setConfirmClear] = useState(false);
+  // Frozen at mount so render stays pure; a dashboard doesn't need a live clock.
+  const [now] = useState(() => Date.now());
 
   if (!hydrated) return <p className="text-muted">Loading your progress…</p>;
 
   const entries = Object.entries(store.characters);
   const learning = entries.filter(([, p]) => p.status === "learning").map(([c]) => c);
   const learned = entries.filter(([, p]) => p.status === "learned").map(([c]) => c);
-  const now = Date.now();
   const due = entries
     .filter(
       ([, p]) =>
@@ -52,7 +53,7 @@ export function ProgressDashboard() {
     )
     .map(([c]) => c);
   const totalPractice = entries.reduce((sum, [, p]) => sum + p.practiceCount, 0);
-  const today = new Date().toDateString();
+  const today = new Date(now).toDateString();
   const practicedToday = entries.filter(
     ([, p]) => p.lastPracticedAt && new Date(p.lastPracticedAt).toDateString() === today
   ).length;

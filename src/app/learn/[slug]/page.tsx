@@ -44,6 +44,12 @@ export default async function TopicPage({ params }: Props) {
         <p className="mt-2 text-muted max-w-2xl">{topic.description}</p>
       </header>
 
+      <div className="max-w-2xl flex flex-col gap-3 text-muted leading-relaxed">
+        {topic.intro.map((para) => (
+          <p key={para.slice(0, 24)}>{para}</p>
+        ))}
+      </div>
+
       <TopicProgress characters={chars.map((c) => c.character)} />
 
       <div className="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-8 gap-3">

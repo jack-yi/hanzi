@@ -5,7 +5,9 @@ import { getAllCharacters, getCharacter } from "@/lib/characters";
 import { HanziPractice } from "@/components/HanziPractice";
 import { AudioButton } from "@/components/AudioButton";
 import { StatusButtons } from "@/components/StatusButtons";
+import { JsonLd } from "@/components/JsonLd";
 import { TOPICS } from "@/lib/topics";
+import { SITE_NAME, SITE_URL } from "@/lib/site";
 
 type Props = { params: Promise<{ char: string }> };
 
@@ -52,6 +54,32 @@ export default async function CharacterPage({ params }: Props) {
 
   return (
     <article className="flex flex-col gap-10">
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "DefinedTerm",
+          name: c,
+          description: `${data.pinyin.join(", ")} — ${data.meanings.join("; ")}`,
+          inLanguage: "zh-Hans",
+          url: `${SITE_URL}/character/${encodeURIComponent(c)}/`,
+          inDefinedTermSet: {
+            "@type": "DefinedTermSet",
+            name: `${SITE_NAME} — HSK 1 characters`,
+            url: `${SITE_URL}/characters/`,
+          },
+        }}
+      />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: SITE_NAME, item: SITE_URL },
+            { "@type": "ListItem", position: 2, name: "Characters", item: `${SITE_URL}/characters/` },
+            { "@type": "ListItem", position: 3, name: c },
+          ],
+        }}
+      />
       {/* Top: character + practice */}
       <div className="grid lg:grid-cols-2 gap-8 items-start">
         <header className="flex flex-col gap-5">
